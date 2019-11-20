@@ -1,25 +1,153 @@
 <!DOCTYPE html>
 <html lang="en-us">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Under Stranger Stars - Back now on Kickstarter</title>
-    <link rel="shortcut icon" href="TemplateData/favicon.ico">
-    <link rel="stylesheet" href="TemplateData/style.css">
-    <script src="TemplateData/UnityProgress.js"></script>  
-    <script src="Build/UnityLoader.js"></script>
-    <script>
-      var gameInstance = UnityLoader.instantiate("gameContainer", "Build/2018-12-12 WebGL.json", {onProgress: UnityProgress});
-    </script>
+  <head>  
+    <title>Alexander Borsboom - Game Developer</title>
+    <script type="text/javascript" src="js/rellax.min.js"></script>
+    <style>
+      @import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+
+      h1 {
+        margin-top:0;
+        font-family:"Lato";
+        letter-spacing: 0.07em;
+        color:#fff;
+        font-size:3em;
+      }
+
+      body, html {
+        height:100%;
+        margin:0;
+      }
+
+      .SectionContainer {
+        min-height:200%;
+        min-width:100%;
+        background-position:center;
+        background-repeat:no-repeat;
+        background-size:cover;
+        overflow:hidden;
+      }
+
+      .FullPage {
+        min-height:200%;
+        min-width:100%;
+        background-position:top;
+        background-repeat:no-repeat;
+        background-size:cover;
+      }
+
+      #USSBG {
+        background-image:url('USS-BG.png');
+        height:33%;
+        position:absolute;
+      }
+
+      #LegacyBG {
+        background-image:url("Legacy-BG.jpg");
+        height:33%;
+        position:absolute;
+      }
+
+      #EndlessBG {
+        background-image:url("Endless-BG.png");
+        height:33%;
+        position:absolute;
+      }
+
+      .Center {
+        width:80%;
+        margin:auto;
+      }
+
+      .SectionSeperator {
+        width:100%;
+        height:400px;
+        background-image:url("Divider.png");
+        background-position:center;
+        position:absolute;
+        z-index:1000;
+      }
+
+      .TextBox {
+        background-color:rgba(0, 0, 0, 0.3);
+        width:40%;
+        margin-left:5%;
+        padding: 15px;
+        padding-left:27px;
+        font-family:lato;
+        color:#fff;
+      }
+    </style>
   </head>
   <body>
-    <div class="webgl-content">
-      <div id="gameContainer" style="width: 960px; height: 600px"></div>
-      <div class="footer">
-        <div class="webgl-logo"></div>
-        <div class="fullscreen" onclick="gameInstance.SetFullscreen(1)"></div>
-        <div class="title">Under Stranger Stars</div>
+      <div class="SectionContainer">
+        <div class="FullPage" id="USSBG" data-rellax-speed=-3>
+          <div class="rellax" data-rellax-speed=4>  
+            <div class="Center" style="padding-top:250px;">
+              <center>
+                <h1>Alexander</h1>
+                <h1>Borsboom</h1>
+              </center>
+            </div>
+          </div>
+          <div class="rellax" data-rellax-speed=4>  
+            <div class="Center" style="padding-top:500px;">
+              <h1>Under Stranger Stars</h1>
+            </div>
+            <div class="Center">
+              <div class="TextBox">
+                <p>Legacy is an experimental title focusing on AI and dynamic narrative. Featuring an advanced simulation engine, Legacy is able to create a living world where characters react to the world around them, adapting their goals, actions & personalities to their unique situations.</p>
+                <p>Legacy includes utility & awareness based AI for characters around the player, but is able to seamlessly swap to simpler for characters at a distance.</p>
+                <p>The game also includes a number of technically complex features such as dynamic lighting, a day/night cycle, runtime navmesh generation and unity based editors.</p>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
-    </div>
+
+      <div class="SectionSeperator"></div>
+
+      <div class="SectionContainer">
+          <div class="FullPage" id="LegacyBG" data-rellax-speed=-3>
+            <div class="rellax" data-rellax-speed=4>  
+              <div class="Center" style="padding-top:950px;">
+                <h1>Legacy</h1>
+              </div>
+              <div class="Center">
+                <div class="TextBox">
+                  <p>Legacy is an experimental title focusing on AI and dynamic narrative. Featuring an advanced simulation engine, Legacy is able to create a living world where characters react to the world around them, adapting their goals, actions & personalities to their unique situations.</p>
+                  <p>Legacy includes utility & awareness based AI for characters around the player, but is able to seamlessly swap to simpler for characters at a distance.</p>
+                  <p>The game also includes a number of technically complex features such as dynamic lighting, a day/night cycle, runtime navmesh generation and unity based editors.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="SectionSeperator"></div>
+
+      <div class="SectionContainer">
+          <div class="FullPage" id="EndlessBG" data-rellax-speed=-3>
+            <div class="rellax" data-rellax-speed=4>  
+              <div class="Center" style="padding-top:950px;">
+                <h1>Endless Adventure</h1>
+              </div>
+              <div class="Center">
+                <div class="TextBox">
+                  <p>Legacy is an experimental title focusing on AI and dynamic narrative. Featuring an advanced simulation engine, Legacy is able to create a living world where characters react to the world around them, adapting their goals, actions & personalities to their unique situations.</p>
+                  <p>Legacy includes utility & awareness based AI for characters around the player, but is able to seamlessly swap to simpler for characters at a distance.</p>
+                  <p>The game also includes a number of technically complex features such as dynamic lighting, a day/night cycle, runtime navmesh generation and unity based editors.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    <script>
+      var rellax = new Rellax(".rellax");
+      var fullscreenRellax = new Rellax(".FullPage");
+    </script>
   </body>
 </html>
