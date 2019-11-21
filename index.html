@@ -74,6 +74,12 @@
         position:absolute;
       }
 
+      #FortressBG {
+        background-image:url("media/fortressbg.png");
+        height:33%;
+        position:absolute;
+      }
+
       .Center {
         width:80%;
         margin:auto;
@@ -90,7 +96,7 @@
       }
 
       .TextBox {
-        background-color:rgba(0, 0, 0, 0.3);
+        background-color:rgba(0, 0, 0, 0.5);
         width:40%;
         padding: 15px;
         margin-left:75px;
@@ -104,12 +110,14 @@
         position:absolute;
         left:50%;
         margin-top:-30vh;
+        z-index:-10;
       }
 
       .SideImage {
         position:absolute;
         left:50%;
         margin-top:-30vh;
+        z-index:-10;
       }
     </style>
   </head>
@@ -183,7 +191,7 @@
       <div class="FullPage" id="EndlessBG">
           <div class="Center" style="padding-top:35vh;">
               <h1 class="SlightOffset">Endless Adventure</h1>
-              <div class="TextBox" style="margin-top:30vh;">
+              <div class="TextBox" style="margin-top:35vh;">
                 <p>Endless Adventure was an open world, procedurally generated mobile title I worked on at Ninja Kiwi. The goal was to create a minimal, exploration focused game with a unique visual style.</p>
                 <p>We also used a textureless approach using SVGs and mesh generation to provide extremely fast load times and performance.</p>
                 <p><b>Technical Elements:</b></p>
@@ -198,10 +206,38 @@
                 </ul>
               </div>
               
-              <img src="endless-3.png" width="480px" class="SideImage" style="margin-top:300px;"/>
-              <video width="480px" class="Movie" style="margin-top:675px;" autoplay="autoplay" muted>
+              <img src="endless-3.png" width="480px" class="SideImage" style="margin-top:0;"/>
+              <video width="480px" class="Movie" style="margin-top:375px;" autoplay="autoplay" muted>
                 <source src="media/dungeon generation.mp4" />
               </video>
+              <img src="media/endless-2.jpg" width="480px" class="SideImage" style="margin-top:725px;"/>
+            </div>
+      </div>
+    </div>
+
+    <div class="SectionSeperator"></div>
+
+    <div class="SectionContainer">
+      <div class="FullPage" id="FortressBG">
+          <div class="Center" style="padding-top:35vh;">
+              <h1 class="SlightOffset">Fortress: Destroyer</h1>
+              <div class="TextBox" style="margin-top:50vh;">
+                <p>Endless Adventure was an open world, procedurally generated mobile title I worked on at Ninja Kiwi. The goal was to create a minimal, exploration focused game with a unique visual style.</p>
+                <p>We also used a textureless approach using SVGs and mesh generation to provide extremely fast load times and performance.</p>
+                <p><b>Technical Elements:</b></p>
+                <ul>
+                  <li>Gameplay Programming.</li>
+                  <li>Procedural generation of characters, environments.</li>
+                  <li>Procedural Animation.</li>
+                  <li>Open World game architecture.</li>
+                  <li>Visual Effects.</li>
+                  <li>UI Programming.</li>
+                  <li>Ninja Kiwi backend integration.</li>
+                </ul>
+              </div>
+              
+              <img src="media/Fortress-1.png" width="480px" class="SideImage" style="margin-top:500px;"/>
+              <img src="media/Fortress-3.jpg" width="480px" class="SideImage" style="margin-top:780px;"/>
             </div>
       </div>
     </div>
