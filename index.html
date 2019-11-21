@@ -9,15 +9,34 @@
       h1 {
         margin-top:0;
         font-family:"Lato";
-        letter-spacing: 0.07em;
+        letter-spacing: 0.09em;
         color:#fff;
-        font-size:3em;
+        font-size:6em;
+      }
+
+      h2 {
+        font-family:"Lato";
+        color:#fff;
+        letter-spacing:1em;
+        font-size:1.5em;
+      }
+
+      a {
+        font-family:"Lato";
+        color:#fff;
+        font-size:1.5em;
+        letter-spacing:0.3em;
       }
 
       body, html {
         height:100%;
         margin:0;
       }
+
+      .Slow {
+        height:100%;
+        margin:0;
+      }      
 
       .SectionContainer {
         min-height:200%;
@@ -26,19 +45,20 @@
         background-repeat:no-repeat;
         background-size:cover;
         overflow:hidden;
+        background-color:blue;
       }
 
       .FullPage {
         min-height:200%;
         min-width:100%;
-        background-position:top;
+        background-position:center;
         background-repeat:no-repeat;
         background-size:cover;
+        z-index:1;
       }
 
       #USSBG {
         background-image:url('USS-BG.png');
-        height:33%;
         position:absolute;
       }
 
@@ -66,88 +86,134 @@
         background-position:center;
         position:absolute;
         z-index:1000;
+        margin-top:-200px;
       }
 
       .TextBox {
         background-color:rgba(0, 0, 0, 0.3);
         width:40%;
-        margin-left:5%;
         padding: 15px;
-        padding-left:27px;
+        margin-left:75px;
+        padding-left:35px;
         font-family:lato;
         color:#fff;
+        font-size:larger;
+      }
+
+      .Movie {
+        position:absolute;
+        left:50%;
+        margin-top:-30vh;
+      }
+
+      .SideImage {
+        position:absolute;
+        left:50%;
+        margin-top:-30vh;
       }
     </style>
   </head>
   <body>
-      <div class="SectionContainer">
-        <div class="FullPage" id="USSBG" data-rellax-speed=-3>
-          <div class="rellax" data-rellax-speed=4>  
-            <div class="Center" style="padding-top:250px;">
-              <center>
-                <h1>Alexander</h1>
-                <h1>Borsboom</h1>
-              </center>
-            </div>
-          </div>
-          <div class="rellax" data-rellax-speed=4>  
-            <div class="Center" style="padding-top:500px;">
-              <h1>Under Stranger Stars</h1>
-            </div>
-            <div class="Center">
-              <div class="TextBox">
-                <p>Legacy is an experimental title focusing on AI and dynamic narrative. Featuring an advanced simulation engine, Legacy is able to create a living world where characters react to the world around them, adapting their goals, actions & personalities to their unique situations.</p>
-                <p>Legacy includes utility & awareness based AI for characters around the player, but is able to seamlessly swap to simpler for characters at a distance.</p>
-                <p>The game also includes a number of technically complex features such as dynamic lighting, a day/night cycle, runtime navmesh generation and unity based editors.</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
+    <div class="SectionContainer">
+      <div class="FullPage" id="USSBG">
+        <div class="rellax">
+          <div class="Center" style="padding-top:35vh;">
+            <H1>Alexander</H1>
+            <H1 style="margin-top:-5%;">Borsboom</H1>
+            <h2 style="margin-top:-7vh">Game Developer</h2>
+            <div style="height:350px;"></div>
+            <h1 class="SlightOffset">Under Stranger Stars</h1>
+            <div class="TextBox">
+              <p>Under Stranger Stars is an independent title I released in August 2019 for Steam.</p>
+              <p>During this project I acted as lead developer, taking responsibility for getting the job done and solving technical challenges.</p>
+              <p>In addition to traditional development responsibilities, I also presented Under Stranger Stars at the Armageddon Expo, the Chromacon Expo, showed the game at the 2018 GDC in San Francisco and ran a Kickstarter Campaign in 2019.</p>
+              <p><b>Technical Elements:</b></p>
+              <ul>
+                <li>Creating physics solvers to support ships moving with damaged or broken parts</li>
+                <Li>Camera systems</Li>
+                <li>UI systems involving a mix of 2D and 3D objects</li>
+                <li>Shader and effect systems</li>
+                <li>Serialization</li>
+                <li>Multiplatform support (Pc + Xbox)</li>
+                <li>Controller Rebinding with hotswappable controllers</li>
+                <li>Integration of external systems - INK scripting language.</li>
+              </ul>
 
-      <div class="SectionSeperator"></div>
-
-      <div class="SectionContainer">
-          <div class="FullPage" id="LegacyBG" data-rellax-speed=-3>
-            <div class="rellax" data-rellax-speed=4>  
-              <div class="Center" style="padding-top:950px;">
-                <h1>Legacy</h1>
-              </div>
-              <div class="Center">
-                <div class="TextBox">
-                  <p>Legacy is an experimental title focusing on AI and dynamic narrative. Featuring an advanced simulation engine, Legacy is able to create a living world where characters react to the world around them, adapting their goals, actions & personalities to their unique situations.</p>
-                  <p>Legacy includes utility & awareness based AI for characters around the player, but is able to seamlessly swap to simpler for characters at a distance.</p>
-                  <p>The game also includes a number of technically complex features such as dynamic lighting, a day/night cycle, runtime navmesh generation and unity based editors.</p>
-                </div>
-              </div>
+              <a href="http://www.understrangerstars.com"><img src="Media/WebsiteIcon.png" height=32px/></a>&nbsp;&nbsp;&nbsp;
+              <a href="https://store.steampowered.com/app/1070030/Under_Stranger_Stars/"><img src="Media/SteamIcon.png" height=32px/></a>
             </div>
+
+            <video src="media/USS_1.mov" class="Movie" autoplay loop muted></video>
           </div>
         </div>
       </div>
+    </div>
 
-      <div class="SectionSeperator"></div>
+    <div class="SectionSeperator"></div>
 
-      <div class="SectionContainer">
-          <div class="FullPage" id="EndlessBG" data-rellax-speed=-3>
-            <div class="rellax" data-rellax-speed=4>  
-              <div class="Center" style="padding-top:950px;">
-                <h1>Endless Adventure</h1>
-              </div>
-              <div class="Center">
-                <div class="TextBox">
-                  <p>Legacy is an experimental title focusing on AI and dynamic narrative. Featuring an advanced simulation engine, Legacy is able to create a living world where characters react to the world around them, adapting their goals, actions & personalities to their unique situations.</p>
-                  <p>Legacy includes utility & awareness based AI for characters around the player, but is able to seamlessly swap to simpler for characters at a distance.</p>
-                  <p>The game also includes a number of technically complex features such as dynamic lighting, a day/night cycle, runtime navmesh generation and unity based editors.</p>
-                </div>
-              </div>
+    <div class="SectionContainer">
+      <div class="FullPage" id="LegacyBG">
+          <div class="Center" style="padding-top:35vh;">
+            <h1 class="SlightOffset">Legacy</h1>
+            <div class="TextBox" style="margin-top:20vh;">
+              <p>Legacy is an experimental title focusing on AI and dynamic narrative. Featuring an advanced simulation engine, Legacy is able to create a living world where characters react to the world around them, adapting their goals, actions & personalities to their unique situations.</p>
+              <p>On this title my responsibilities included creating AI, Unity editor extensions and game architectures which could support the complex requirements of the project.</p>
+              <p><b>Technical Elements:</b></p>
+              <ul>
+                <li>Utility & Awareness based AI systems.</li>
+                <li>Scalable AI systems using scheduling & LoD.</li>
+                <li>Dynamic 2D shadows via mesh generation.</li>
+                <li>Day/Night cycles.</li>
+                <li>Runtime navmesh generation.</li>
+                <li>Unity based content & AI editors.</li>
+              </ul>
             </div>
+
+            <video src="media/DI84YH5UIAAhFKP.mp4" width="480px" class="Movie" style="margin-top:-100px;" autoplay loop="True" muted></video>
+            <img class="SideImage" src="media/DDjH0x4WsAEs2W_.jpg" width=480px style="margin-top:180px;">
+            <video src="media/legacy lighting.mp4" width="480px" class="Movie" style="margin-top:470px;" autoplay loop="True" muted></video>
+            <video src="media/DEgL133VwAA61Bj.mp4" width="480px" class="Movie" style="margin-top:695px;" autoplay loop="True" muted></video>
           </div>
-        </div>
       </div>
+    </div>
+
+    <div class="SectionSeperator"></div>
+
+    <div class="SectionContainer">
+      <div class="FullPage" id="EndlessBG">
+          <div class="Center" style="padding-top:35vh;">
+              <h1 class="SlightOffset">Endless Adventure</h1>
+              <div class="TextBox" style="margin-top:30vh;">
+                <p>Endless Adventure was an open world, procedurally generated mobile title I worked on at Ninja Kiwi. The goal was to create a minimal, exploration focused game with a unique visual style.</p>
+                <p>We also used a textureless approach using SVGs and mesh generation to provide extremely fast load times and performance.</p>
+                <p><b>Technical Elements:</b></p>
+                <ul>
+                  <li>Gameplay Programming.</li>
+                  <li>Procedural generation of characters, environments.</li>
+                  <li>Procedural Animation.</li>
+                  <li>Open World game architecture.</li>
+                  <li>Visual Effects.</li>
+                  <li>UI Programming.</li>
+                  <li>Ninja Kiwi backend integration.</li>
+                </ul>
+              </div>
+              
+              <img src="endless-3.png" width="480px" class="SideImage" style="margin-top:300px;"/>
+              <video width="480px" class="Movie" style="margin-top:675px;" autoplay="autoplay" muted>
+                <source src="media/dungeon generation.mp4" />
+              </video>
+            </div>
+      </div>
+    </div>
+
+    <div class="SectionSeperator"></div>
+    <div style="background-color:black; width:100%; margin:auto; height:200px;"></div>
 
     <script>
-      var rellax = new Rellax(".rellax");
-      var fullscreenRellax = new Rellax(".FullPage");
+      var rellax = new Rellax(".rellax", {speed:8});
+      var slightOffset = new Rellax(".SlightOffset", {speed:-0.75});
+      var movieOffset = new Rellax(".Movie", {speed:2});
+      var imageOffset = new Rellax(".SideImage", {speed:2});
     </script>
   </body>
 </html>
