@@ -1,213 +1,405 @@
 <!DOCTYPE html>
 <html lang="en-us">
-  <head>  
-    <title>Alexander Borsboom - Game Developer</title>
-    <script type="text/javascript" src="js/rellax.min.js"></script>
-    <style>
-      @import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
 
-      h1 {
-        margin-top:0;
-        font-family:"Lato";
-        letter-spacing: 0.09em;
-        color:#fff;
-        font-size:6em;
-      }
+<head>
+  <title>Alexander Borsboom - Game Developer</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script type="text/javascript" src="js/rellax.min.js"></script>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-4Q6Gf2aSP4eDXB8Miphtr37CMZZQ5oXLH2yaXMJ2w8e2ZtHTl7GptT4jmndRuHDT" crossorigin="anonymous">
+</head>
+<style>
+  @import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&display=swap');
 
-      h2 {
-        font-family:"Lato";
-        color:#fff;
-        letter-spacing:1em;
-        font-size:1.5em;
-      }
+  h1 {
+    margin-top: 0;
+    font-family: "Passion One";
+    letter-spacing: 0.09em;
+    color: #fff;
+    font-size: 6em;
+    text-shadow: 5px 5px 5px black;
+    line-height: 144px;
+  }
 
-      a {
-        font-family:"Lato";
-        color:#fff;
-        font-size:1.5em;
-        letter-spacing:0.3em;
-      }
+  h2 {
+    font-family: "Lato";
+    color: #fff;
+    letter-spacing: 1em;
+    font-size: 1.5em;
+    line-height: normal;
+  }
 
-      body, html {
-        height:100%;
-        margin:0;
-      }
+  h3 {
+    font-family: "Lato";
+    color: #fff;
+    font-size: 1.5em;
+    margin-left:0px;
+    margin-top:-40px;
+    margin-bottom:35px;
+    line-height: normal;
+    text-shadow: 5px 5px 5px black;
+  }
 
-      .Slow {
-        height:100%;
-        margin:0;
-      }      
+  a {
+    font-family: "Lato";
+    color: #fff;
+    font-size: 1.5em;
+    letter-spacing: 0.3em;
+  }
 
-      .SectionContainer {
-        min-height:200%;
-        min-width:100%;
-        background-position:center;
-        background-repeat:no-repeat;
-        background-size:cover;
-        overflow:hidden;
-        background-color:black;
-      }
+  body,
+  html {
+    height: 100%;
+    margin: 0;
+  }
 
-      .FullPage {
-        min-height:200%;
-        min-width:100%;
-        background-position:center;
-        background-repeat:no-repeat;
-        background-size:cover;
-        z-index:1;
-      }
+  .Slow {
+    height: 100%;
+    margin: 0;
+  }
 
-      #USSBG {
-        background-image:url('USS-BG.png');
-        position:absolute;
-      }
+  .SectionContainer {
+    min-height: 200%;
+    min-width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    background-color: black;
+  }
 
-      #LegacyBG {
-        background-image:url("Legacy-BG.jpg");
-        height:33%;
-        position:absolute;
-      }
+  .FullPage {
+    min-height: 200%;
+    min-width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 1;
+  }
 
-      #EndlessBG {
-        background-image:url("Endless-BG.png");
-        height:33%;
-        position:absolute;
-      }
+  #USSBG {
+    background-image: url('USS-BG.png');
+    position: absolute;
+  }
 
-      #FortressBG {
-        background-image:url("media/fortressbg.png");
-        height:33%;
-        position:absolute;
-      }
+  #LegacyBG {
+    background-image: url("Legacy-BG.jpg");
+    height: 33%;
+    position: absolute;
+  }
 
-      .Center {
-        width:80%;
-        margin:auto;
-      }
+  #EndlessBG {
+    background-image: url("Endless-BG.png");
+    height: 33%;
+    position: absolute;
+  }
 
-      .SectionSeperator {
-        width:100%;
-        height:400px;
-        background-image:url("Divider.png");
-        background-position:center;
-        position:absolute;
-        z-index:1000;
-        margin-top:-200px;
-      }
+  #FortressBG {
+    background-image: url("media/fortressbg.png");
+    height: 33%;
+    position: absolute;
+  }
 
-      .TextBox {
-        background-color:rgba(0, 0, 0, 0.5);
-        width:40%;
-        padding: 15px;
-        margin-left:75px;
-        padding-left:35px;
-        font-family:lato;
-        color:#fff;
-        font-size:larger;
-      }
+  #TnEBG {
+    background-image: url("media/tne_1.png");
+    height: 33%;
+    position: absolute;
+  }
 
-      .Movie {
-        position:absolute;
-        left:50%;
-        margin-top:-30vh;
-        z-index:-10;
-      }
+  #MonolithBG {
+    background-image: url("media/mon_5.png");
+    height: 33%;
+    position: absolute;
+  }
 
-      .SideImage {
-        position:absolute;
-        left:50%;
-        margin-top:-30vh;
-        z-index:-10;
-      }
+  #DSABG {
+    background-image: url("media/dsa_bg.jpg");
+    height: 33%;
+    position: absolute;
+  }
 
-      .Header {
-        top:10px;
-        position:Fixed;
-        z-index:1050;
-        right:20px;
-      }
-    </style>
-  </head>
-  <body>
-    <div class="Header"><a href="mailto:alexander.borsboom@gmail.com" target="new"><img width="32px" src="media/EmailIcon.png"></a> 
-      &nbsp;
-      <a href="https://www.linkedin.com/in/alexander-borsboom-9b31ba58/?originalSubdomain=nz" target="new"><img width="32px" src="media/liicon.png"></a>
-      &nbsp;
-      <a href="https://www.twitter.com/avianling" target="new"><img width="32px" src="media/TwitterIcon.png"></a>
-    </div>
+  .Center {
+    width: 80%;
+    margin: auto;
+  }
 
-    <div class="SectionContainer">
-      <div class="FullPage" id="USSBG">
-        <div class="rellax">
-          <div class="Center" style="padding-top:35vh;">
-            <H1>Alexander</H1>
-            <H1 style="margin-top:-5%;">Borsboom</H1>
-            <h2 style="margin-top:-7vh">Game Developer</h2>
-            <div style="height:350px;"></div>
-            <h1 class="SlightOffset">Under Stranger Stars</h1>
-            <div class="TextBox">
-              <p>Under Stranger Stars is an independent title I released in August 2019 for Steam.</p>
-              <p>During this project I acted as lead developer, taking responsibility for getting the job done and solving technical challenges.</p>
-              <p>In addition to traditional development responsibilities, I also presented Under Stranger Stars at the Armageddon Expo, the Chromacon Expo, showed the game at the 2018 GDC in San Francisco and ran a Kickstarter Campaign in 2019.</p>
-              <p><b>Technical Elements:</b></p>
-              <ul>
-                <li>Creating physics solvers to support ships moving with damaged or broken parts</li>
-                <Li>Camera systems</Li>
-                <li>UI systems involving a mix of 2D and 3D objects</li>
-                <li>Shader and effect systems</li>
-                <li>Serialization</li>
-                <li>Multiplatform support (Pc + Xbox)</li>
-                <li>Controller Rebinding with hotswappable controllers</li>
-                <li>Integration of external systems - INK scripting language.</li>
-              </ul>
+  .SectionSeperator {
+    width: 100%;
+    height: 400px;
+    background-image: url("Divider.png");
+    background-position: center;
+    position: absolute;
+    z-index: 1000;
+    margin-top: -200px;
+  }
 
-              <a href="http://www.understrangerstars.com"><img src="media/WebsiteIcon.png" height=32px/></a>&nbsp;&nbsp;&nbsp;
-              <a href="https://store.steampowered.com/app/1070030/Under_Stranger_Stars/"><img src="media/SteamIcon.png" height=32px/></a>
+  #TextBox2 {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 15px;
+    padding-left: 35px;
+    font-family: lato;
+    color: #fff;
+    font-size: larger;
+    margin-bottom: 25px;
+  }
+
+  .TextBox {
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 40%;
+    padding: 15px;
+    margin-left: 75px;
+    padding-left: 35px;
+    font-family: lato;
+    color: #fff;
+    font-size: larger;
+  }
+
+  .Movie {
+    position: absolute;
+    left: 50%;
+    z-index: -10;
+  }
+
+  .SideImage {
+    position: absolute;
+    left: 50%;
+    margin-top: -30vh;
+    z-index: -10;
+  }
+
+  .Header {
+    top: 10px;
+    position: Fixed;
+    z-index: 1050;
+    right: 20px;
+  }
+
+  .passion-one-regular {
+    font-family: "Passion One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+</style>
+</head>
+
+<body>
+  <div class="Header"><a href="mailto:alexander.borsboom@gmail.com" target="new"><img width="32px"
+        src="media/EmailIcon.png"></a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/alexander-borsboom-9b31ba58/?originalSubdomain=nz" target="new"><img
+        width="32px" src="media/liicon.png"></a>
+    &nbsp;
+    <a href="https://www.twitter.com/avianling" target="new"><img width="32px" src="media/TwitterIcon.png"></a>
+  </div>
+
+  <div class="SectionContainer">
+    <div class="FullPage" id="USSBG">
+      <div class="rellax">
+        <div class="Center" style="padding-top:35vh;">
+          <H1>ALEXANDER</H1>
+          <H1 style="margin-top:-5%;">BORSBOOM</H1>
+          <h2 style="margin-top:-2.5%">Game Developer</h2>
+          <div style="height:350px;"></div>
+          <h1 class="SlightOffset">Under Stranger Stars</h1>
+          <div class="container">
+            <div class="row">
+              <div class="col">
+                <div id="TextBox2">
+                  <p>Under Stranger Stars is an independent title I released in August 2019 for Steam.</p>
+                  <p>During this project I acted as lead developer, taking responsibility for getting the job done and
+                    solving technical challenges.</p>
+                  <p>In addition to traditional development responsibilities, I also presented Under Stranger Stars at
+                    the Armageddon Expo, the Chromacon Expo, showed the game at the 2018 GDC in San Francisco and ran a
+                    Kickstarter Campaign in 2019.</p>
+                  <p><b>Technical Elements:</b></p>
+                  <ul>
+                    <li>Creating physics solvers to support ships moving with damaged or broken parts</li>
+                    <Li>Camera systems</Li>
+                    <li>UI systems involving a mix of 2D and 3D objects</li>
+                    <li>Shader and effect systems</li>
+                    <li>Serialization</li>
+                    <li>Multiplatform support (Pc + Xbox)</li>
+                    <li>Controller Rebinding with hotswappable controllers</li>
+                    <li>Integration of external systems - INK scripting language.</li>
+                  </ul>
+
+                  <a href="http://www.understrangerstars.com"><img src="media/WebsiteIcon.png"
+                      height=32px /></a>&nbsp;&nbsp;&nbsp;
+                  <a href="https://store.steampowered.com/app/1070030/Under_Stranger_Stars/"><img
+                      src="media/SteamIcon.png" height=32px /></a>
+                </div>
+              </div>
+              <div class="col">
+                <video src="media/USS_1.mov" class="Movie" autoplay loop muted></video>
+              </div>
             </div>
-
-            <video src="media/USS_1.mov" class="Movie" autoplay loop muted></video>
           </div>
         </div>
       </div>
     </div>
+  </div>
 
-    <div class="SectionSeperator"></div>
+  <div class="SectionSeperator"></div>
 
-    <div class="SectionContainer">
-      <div class="FullPage" id="LegacyBG">
-          <div class="Center" style="padding-top:35vh;">
-            <h1 class="SlightOffset">Legacy</h1>
-            <div class="TextBox" style="margin-top:20vh;">
-              <p>Legacy is an experimental title focusing on AI and dynamic narrative. Featuring an advanced simulation engine, Legacy is able to create a living world where characters react to the world around them, adapting their goals, actions & personalities to their unique situations.</p>
-              <p>On this title my responsibilities included creating AI, Unity editor extensions and game architectures which could support the complex requirements of the project.</p>
-              <p><b>Technical Elements:</b></p>
-              <ul>
-                <li>Utility & Awareness based AI systems.</li>
-                <li>Scalable AI systems using scheduling & LoD.</li>
-                <li>Dynamic 2D shadows via mesh generation.</li>
-                <li>Day/Night cycles.</li>
-                <li>Runtime navmesh generation.</li>
-                <li>Unity based content & AI editors.</li>
-              </ul>
+  <div class="SectionContainer" id="parallaxWrapper5">
+    <div class="FullPage" id="TnEBG">
+      <div class="rellax5">
+        <div class="Center" style="padding-top:35vh;">
+          <h1 class="SlightOffset">Trowel & Error</h1>
+          <h3>Designer, Developer</h3>
+          <div class="container">
+            <div class="row">
+              <div class="col" id="TextBox2">
+                <p>Trowel & Error is a quirky archaeology adventure where you dig up ancient oddities, solve puzzles, and lovingly restore a crumbling museum to its former (slightly wobbly) glory. Catalog your weird and wonderful finds, piece together history like a jigsaw with missing corners, and build the coziest little library this side of the Bronze Age.</p>
+                <ul>
+                  <li>Designed and implemented all game elements and features.</li>
+                  <li>Created procedural environment & building systems.</li>
+                  <li>Optimized open world environments with LOD & multithreaded approaches, improving framerates by > 50%.</li>
+                  <li>Used Unity HDRP to deliver a variety of environments and tones.</li>
+                  <li>Designed and iterated on exploration / creation based gameplay.</li>
+                </ul>
+                <a href="https://avianling.itch.io/trowelanderror">
+                  <img src="media/itch.svg" width="160px"/>
+                </a>
+              </div>
             </div>
-
-            <video src="media/DI84YH5UIAAhFKP.mp4" width="480px" class="Movie" style="margin-top:-100px;" autoplay loop="True" muted></video>
-            <img class="SideImage" src="media/DDjH0x4WsAEs2W_.jpg" width=480px style="margin-top:180px;">
-            <video src="media/legacy lighting.mp4" width="480px" class="Movie" style="margin-top:470px;" autoplay loop="True" muted></video>
-            <video src="media/DEgL133VwAA61Bj.mp4" width="480px" class="Movie" style="margin-top:695px;" autoplay loop="True" muted></video>
+            <div class="row">
+              <div class="col-4">
+                <a href="media/tne_2.png" target="new">
+                  <img src="media/tne_2.png" width="100%">
+                </a>
+              </div>
+              <div class="col-4">
+                <a href="media/tne_3.png" target="new">
+                  <img src="media/tne_3.png" width="100%">
+                </a>
+              </div>
+              <div class="col-4">
+                <a href="media/tne_4.png" target="new">
+                  <img src="media/tne_4.png" width="100%">
+                </a>
+              </div>
+            </div>
+            <br>
+            <div class="row">
+              <div class="col-4">
+                <a href="media/tne_5.png" target="new">
+                  <img src="media/tne_5.png" width="100%">
+                </a>
+              </div>
+              <div class="col-4">
+                <a href="media/tne_6.png" target="new">
+                  <img src="media/tne_6.png" width="100%">
+                </a>
+              </div>
+              <div class="col-4">
+                <a href="media/tne_7.png" target="new">
+                  <img src="media/tne_7.png" width="100%">
+                  </a>
+              </div>
+            </div>
           </div>
+        </div>
       </div>
     </div>
+  </div>
 
-    <div class="SectionSeperator"></div>
+  <div class="SectionSeperator"></div>
 
-    <div class="SectionContainer">
-      <div class="FullPage" id="EndlessBG">
-          <div class="Center" style="padding-top:35vh;">
-              <h1 class="SlightOffset">Endless Adventure</h1>
-              <div class="TextBox" style="margin-top:35vh;">
-                <p>Endless Adventure was an open world, procedurally generated mobile title I worked on at Ninja Kiwi. The goal was to create a minimal, exploration focused game with a unique visual style.</p>
-                <p>We also used a textureless approach using SVGs and mesh generation to provide extremely fast load times and performance.</p>
+  <div class="SectionContainer" id="parallaxWrapper">
+    <div class="FullPage" id="LegacyBG">
+      <div class="rellax2">
+        <div class="Center" style="padding-top:35vh;">
+          <h1 class="SlightOffset">Legacy</h1>
+          <div class="container">
+            <div class="row">
+              <div class="col" id="TextBox2">
+                <p>Legacy is an experimental title focusing on AI and dynamic narrative. Featuring an advanced simulation
+                  engine, Legacy is able to create a living world where characters react to the world around them,
+                  adapting their goals, actions & personalities to their unique situations.</p>
+                <p>On this title my responsibilities included creating AI, Unity editor extensions and game architectures
+                  which could support the complex requirements of the project.</p>
+                <p><b>Technical Elements:</b></p>
+                <ul>
+                  <li>Utility & Awareness based AI systems.</li>
+                  <li>Scalable AI systems using scheduling & LoD.</li>
+                  <li>Dynamic 2D shadows via mesh generation.</li>
+                  <li>Day/Night cycles.</li>
+                  <li>Runtime navmesh generation.</li>
+                  <li>Unity based content & AI editors.</li>
+                </ul>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-4">
+                <video src="media/DI84YH5UIAAhFKP.mp4" width="100%" autoplay loop="True" muted></video>
+              </div>
+              <div class="col-4">
+                <a href="media/DDjH0x4WsAEs2W_.jpg" target="new">
+                  <img src="media/DDjH0x4WsAEs2W_.jpg" width="100%">
+                </a>
+              </div>
+              <div class="col-4">
+                <video src="media/legacy lighting.mp4" width="100%" autoplay loop="True" muted></video>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="SectionSeperator"></div>
+
+  <div class="SectionContainer" id="parallaxWrapper7">
+    <div class="FullPage" id="DSABG">
+      <div class="rellax7">
+        <div class="Center" style="padding-top:35vh;">
+          <h1 class="SlightOffset">Disney: Sorcerer's Arena</h1>
+          <h3><i>Sr Software Engineer, Lead Software Engineer</i></h3>
+          <div class="container">
+            <div class="row">
+              <div class="col" id="TextBox2">
+                <p>Disney Sorcerer's Arena is a iOS / Android game with significant live service elements, multiplayer elements and a lifetime revenue > $100M. I was a Senior software engineer on this project, expected to work independently to solve problems and take ownership of entire features. I worked across the tech stack, touching server, database, gameplay and dev tools.</p>
+                <ul>
+                  <li>I was responsible for implementation of features such as Raids, Club Adventures.</li>
+                  <li>Significantly improved our QA processes through tooling and integration. In one instance, I setup tooling to automate setup for multiplayer tests, turning a 3 hour, 3 person task into a 1 person, 15 minute task.</li>
+                  <li>Mentored our growing Hyderabad engineering team on how to create high quality, robust code.</li>
+                  <li>Created highly flexible data driven systems that supported weekly live ops updates. This allowed several major bugs to be resolved in minutes via a data update, rather than in days with a code change.</li>
+                  <li>Created procedural content tools which turned a two week task for our lead designer into a one hour task, ensuring the feature shipped on time.</li>
+                </ul>
+              </div>
+              <div class="col">
+                <img src="media/dsa_1.webp" width="480px" />
+                <br>
+                <br>
+                <img src="media/dsa_2.webp" width="480px" />
+                <br>
+                <br>
+                <img src="media/dsa_3.jpg" width="480px" />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>  
+
+  <div class="SectionSeperator"></div>
+
+  <div class="SectionContainer" id="parallaxWrapper3">
+    <div class="FullPage" id="EndlessBG">
+      <div class="rellax3">
+        <div class="Center" style="padding-top:35vh;">
+          <h1 class="SlightOffset">Endless Adventure</h1>
+          <div class="container">
+            <div class="row">
+              <div class="col" id="TextBox2">
+                <p>Endless Adventure was an open world, procedurally generated mobile title I worked on at Ninja Kiwi. The
+                  goal was to create a minimal, exploration focused game with a unique visual style.</p>
+                <p>We also used a textureless approach using SVGs and mesh generation to provide extremely fast load times
+                  and performance.</p>
                 <p><b>Technical Elements:</b></p>
                 <ul>
                   <li>Gameplay Programming.</li>
@@ -219,51 +411,111 @@
                   <li>Ninja Kiwi backend integration.</li>
                 </ul>
               </div>
-              
-              <img src="endless-3.png" width="480px" class="SideImage" style="margin-top:0;"/>
-              <video width="480px" class="Movie" style="margin-top:375px;" autoplay="autoplay" muted>
-                <source src="media/dungeon generation.mp4" />
-              </video>
-              <img src="media/endless-2.jpg" width="480px" class="SideImage" style="margin-top:725px;"/>
-            </div>
-      </div>
-    </div>
-
-    <div class="SectionSeperator"></div>
-
-    <div class="SectionContainer">
-      <div class="FullPage" id="FortressBG">
-          <div class="Center" style="padding-top:35vh;">
-              <h1 class="SlightOffset">Fortress: Destroyer</h1>
-              <div class="TextBox" style="margin-top:50vh;">
-                <p>Fortress: Destroyer is a mobile title I developed at Ninja Kiwi featuring 3D ship combat and collection mechanics. This was Ninja Kiwis first 3D game and first Unity project.</p>
-                <p>For this project I worked in a medium sized team developing gameplay features, game architectures, and supporting other team members by building editor extensions.</p>  
-                <p><b>Technical Elements:</b></p>
-                <ul>
-                  <li>Gameplay Programming.</li>
-                  <li>Destructible terrain.</li>
-                  <li>UI Systems.</li>
-                  <li>Special Effects & Shaders.</li>
-                  <li>AI</li>
-                  <li>Live Ops integration.</li>
-                  <li>Unity Editors - terrain builder & terrain painter.</li>
-                </ul>
+              <div class="col">
+                <img src="endless-3.png" width="480px" />
+                <br>
+                <br>
+                <video width="480px" autoplay="autoplay" muted>
+                  <source src="media/dungeon generation.mp4" />
+                </video>
+                <br>
+                <img src="media/endless-2.jpg" width="480px" />
               </div>
-              
-              <img src="media/fortress-1.png" width="480px" class="SideImage" style="margin-top:500px;"/>
-              <img src="media/Fortress-3.jpg" width="480px" class="SideImage" style="margin-top:780px;"/>
             </div>
+          </div>
+        </div>
       </div>
     </div>
+  </div>
 
-    <div class="SectionSeperator"></div>
-    <div style="background-color:black; width:100%; margin:auto; height:200px;"></div>
+  
+  <div class="SectionSeperator"></div>
 
-    <script>
-      var rellax = new Rellax(".rellax", {speed:8});
-      var slightOffset = new Rellax(".SlightOffset", {speed:-0.75});
-      var movieOffset = new Rellax(".Movie", {speed:2});
-      var imageOffset = new Rellax(".SideImage", {speed:2});
-    </script>
-  </body>
+  <div class="SectionContainer" id="parallaxWrapper6">
+    <div class="FullPage" id="MonolithBG">
+      <div class="rellax6">
+        <div class="Center" style="padding-top:35vh;">
+          <h1 class="SlightOffset">Monolith</h1>
+          <h3><i>Design, Art, Sound, Gameplay</i></h3>
+          <div class="container">
+            <div class="row">
+              <div class="col" id="TextBox2">
+                <p>A GameJam project focusing on lighting and sound design.</p>
+                <p>Adrift far from civilization, your ship is unresponsive and the crew is missing. FIND the missing keycards, DISCOVER the fate of the crew, CAPITALIZE certain words for dramatic effect.
+                  Short, somewhat complete title for the SCREAM JAM 2024 and Hawktober Horrors 2024 game jams.</p>
+                <ul>
+                  <li>Created environments, focusing on lighting in unity HDRP to create feeling and variety.</li>
+                  <li>Used Substance Painter to create physically shaded assets.</li>
+                  <li>Create sound effects & music.</li>
+                </ul>
+                <a href="https://avianling.itch.io/monolith">
+                  <img src="media/itch.svg" width="160px"/>
+                </a>
+              </div>
+              <div class="col">
+                <img src="media/mon_1.png" width="480px" />
+                <br>
+                <br>
+                <img src="media/mon_3.png" width="480px" />
+                <br>
+                <br>
+                <img src="media/mon_4.png" width="480px" />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="SectionSeperator"></div>
+
+  <div class="SectionContainer" id="parallaxWrapper4">
+    <div class="FullPage" id="FortressBG">
+      <div class="rellax4">
+        <div class="Center">
+          <h1 class="SlightOffset" style="padding-top:35vh;">Fortress: Destroyer</h1>
+          <h3><i>Unity Developer</i></h3>
+          <div class="container">
+            <div class="row">
+              <div class="col" id="TextBox2">
+                <p>Fortress: Destroyer is a mobile title from Ninja Kiwi featuring 3D ship combat and collection
+                  mechanics.</p>
+                <p>For this project I worked in a medium sized team developing gameplay features, game architectures, and
+                  supporting other team members by building editor extensions.</p>
+                <ul>
+                  <li>Responsible for creating the game architecture, including combat, AI, art pipelines and UI systems.</li>
+                  <li>Took on several additional responsibility around tech art, supporting the art team, creating visual effects and optimization.</li>
+                  <li>Demonstrated excellent C# skills, create a robust architecture for the game.</li>
+                  <li>Supported the broader team on their transition from 2D -> 3D and flash -> Unity.</li>
+              </div>
+              <div class="col">
+                <img src="media/fortress-1.png" width="480px" />
+                <img src="media/Fortress-3.jpg" width="480px" />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="SectionSeperator"></div>
+  <div style="background-color:black; width:100%; margin:auto; height:200px;"></div>
+
+  <script>
+    var rellax = new Rellax(".rellax", { speed: 8 });
+    var rellax2 = new Rellax(".rellax2", { speed: 8, wrapper: '#parallaxWrapper', relativeToWrapper:true });
+    var rellax3 = new Rellax(".rellax3", { speed: 8, wrapper: '#parallaxWrapper3', relativeToWrapper:true });
+    var rellax4 = new Rellax(".rellax4", { speed: 8, wrapper: '#parallaxWrapper4', relativeToWrapper:true });
+    var rellax5 = new Rellax(".rellax5", { speed: 8, wrapper: '#parallaxWrapper5', relativeToWrapper:true });
+    var rellax6 = new Rellax(".rellax6", { speed: 8, wrapper: '#parallaxWrapper6', relativeToWrapper:true });
+    var rellax7 = new Rellax(".rellax7", { speed: 8, wrapper: '#parallaxWrapper7', relativeToWrapper:true });
+    // var slightOffset = new Rellax(".SlightOffset", {speed:-0.75});
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-j1CDi7MgGQ12Z7Qab0qlWQ/Qqz24Gc6BM0thvEMVjHnfYGF0rmFCozFSxQBxwHKO"
+    crossorigin="anonymous"></script>
+</body>
+
 </html>
