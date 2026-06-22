@@ -187,6 +187,12 @@ const groups = groupImages(IMAGES);
 let currentGroup = null;
 let searchQuery = '';
 
+function escapeHtml(str) {
+  const d = document.createElement('div');
+  d.textContent = str;
+  return d.innerHTML;
+}
+
 // ── Search ──
 function onSearch() {
   searchQuery = document.getElementById('searchInput').value.toLowerCase().trim();
@@ -225,7 +231,7 @@ function renderGallery() {
       <div class="card" onclick="showSubImages(${g.id})">
         <img src="${first.path}" alt="Object ${g.id}" loading="lazy">
         <div class="label">Object ${g.id} (${g.files.length})${typeInfo}</div>
-        <div class="meta">${first.description || ''}</div>
+        <div class="meta">${escapeHtml(first.description || '')}</div>
       </div>
     `;
   }).join('');
@@ -257,8 +263,8 @@ function showSubImages(groupId) {
     return `
       <div class="card" onclick="openCloseup('${item.path}')">
         <img src="${item.path}" alt="${name}" loading="lazy">
-        <div class="label">${name}</div>
-        <div class="meta">${tagsHtml}${item.description || ''}</div>
+        <div class="label">${escapeHtml(name)}</div>
+        <div class="meta">${tagsHtml}${escapeHtml(item.description || '')}</div>
       </div>
     `;
   }).join('');
