@@ -756,6 +756,15 @@ const IMAGES = [
     description: "Bronze jug-handle: Priapus; the horizontal terminates in bird's head."
   },
   {
+    path: "Images/248a2.jpg",
+    objectId: 248,
+    tags: [],
+    objectType: "jug",
+    lat: null,
+    lng: null,
+    description: "Bronze jug-handle: Priapus; the horizontal terminates in bird's head."
+  },
+  {
     path: "Images/249.jpg",
     objectId: 249,
     tags: [],
@@ -1044,6 +1053,15 @@ const IMAGES = [
     description: "Figure; porcelain(?); terminal Priapus; loop at back."
   },
   {
+    path: "Images/321a2.jpg",
+    objectId: 321,
+    tags: [],
+    objectType: "bust",
+    lat: null,
+    lng: null,
+    description: "Faience bust of Priapus"
+  },
+  {
     path: "Images/322.jpg",
     objectId: 322,
     tags: [],
@@ -1062,6 +1080,24 @@ const IMAGES = [
     description: "Bronze terminal figure of Priapus emerging from a pillar, and sacrificing."
   },
   {
+    path: "Images/324a2.jpg",
+    objectId: 324,
+    tags: [],
+    objectType: "figure",
+    lat: null,
+    lng: null,
+    description: "Bronze ithyphallic figure, perhaps Priapus, carrying fruit."
+  },
+  {
+    path: "Images/324b.jpg",
+    objectId: 324,
+    tags: [],
+    objectType: "figure",
+    lat: null,
+    lng: null,
+    description: "Bronze ithyphallic figure, perhaps Priapus, carrying fruit."
+  },
+  {
     path: "Images/326.jpg",
     objectId: 326,
     tags: [],
@@ -1078,6 +1114,87 @@ const IMAGES = [
     lat: null,
     lng: null,
     description: "Figure of woman; lead; woman with legs akimbo engaged in worship of Priapus."
+  },
+  {
+    path: "Images/328a.jpg",
+    objectId: 328,
+    tags: [],
+    objectType: "figure",
+    lat: null,
+    lng: null,
+    description: "Fake bronze two-part figure of Priapus: the top part is a bearded head and cloak, which lifts off to reveal a phallus."
+  },
+  {
+    path: "Images/328b.jpg",
+    objectId: 328,
+    tags: [],
+    objectType: "figure",
+    lat: null,
+    lng: null,
+    description: "Fake bronze two-part figure of Priapus: the top part is a bearded head and cloak, which lifts off to reveal a phallus."
+  },
+  {
+    path: "Images/328c.jpg",
+    objectId: 328,
+    tags: [],
+    objectType: "figure",
+    lat: null,
+    lng: null,
+    description: "Fake bronze two-part figure of Priapus: the top part is a bearded head and cloak, which lifts off to reveal a phallus."
+  },
+  {
+    path: "Images/328d.jpg",
+    objectId: 328,
+    tags: [],
+    objectType: "figure",
+    lat: null,
+    lng: null,
+    description: "Fake bronze two-part figure of Priapus: the top part is a bearded head and cloak, which lifts off to reveal a phallus."
+  },
+  {
+    path: "Images/329a2.jpg",
+    objectId: 329,
+    tags: [],
+    objectType: "figure",
+    lat: null,
+    lng: null,
+    description: "Bronze figure of Priapus seated upon globe."
+  },
+  {
+    path: "Images/329b.jpg",
+    objectId: 329,
+    tags: [],
+    objectType: "figure",
+    lat: null,
+    lng: null,
+    description: "Bronze figure of Priapus seated upon globe."
+  },
+  {
+    path: "Images/330a.jpg",
+    objectId: 330,
+    tags: [],
+    objectType: "figure",
+    lat: null,
+    lng: null,
+    description: "Bronze figure of a young Priapus."
+  },
+  {
+    path: "Images/330b.jpg",
+    objectId: 330,
+    tags: [],
+    objectType: "figure",
+    lat: null,
+    lng: null,
+    description: "Bronze figure of a young Priapus."
+  },
+  {
+    path: "Images/331.jpg",
+    objectId: 331,
+    tags: [],
+    objectType: "figure; forgery",
+    lat: null,
+    lng: null,
+    description: "Fake bronze figure of Priapus balancing fruit on his erect phallus."
   },
   {
     path: "Images/332.jpg",
@@ -1105,6 +1222,24 @@ const IMAGES = [
     lat: null,
     lng: null,
     description: "Mask; terracotta; on back: terminal Priapus; inscription in Greek; naked woman involved in sacrifice."
+  },
+  {
+    path: "Images/336a2.jpg",
+    objectId: 336,
+    tags: [],
+    objectType: "pendant",
+    lat: null,
+    lng: null,
+    description: "Bronze votive figure of Priapus; large loop at back."
+  },
+  {
+    path: "Images/336b.jpg",
+    objectId: 336,
+    tags: [],
+    objectType: "pendant",
+    lat: null,
+    lng: null,
+    description: "Bronze votive figure of Priapus; large loop at back."
   },
   {
     path: "Images/337.jpg",
@@ -1827,6 +1962,24 @@ const IMAGES = [
     description: ""
   },
   {
+    path: "Images/448a2.jpg",
+    objectId: 448,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: ""
+  },
+  {
+    path: "Images/448b.jpg",
+    objectId: 448,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: ""
+  },
+  {
     path: "Images/449.jpg",
     objectId: 449,
     tags: [],
@@ -1845,6 +1998,60 @@ const IMAGES = [
     description: "Egyptian terracotta figure of a male youth (Harpocrates?). He is carrying a musical instrument (tanbar, lute or guitar type instrument). He wears a robe, worn over his head to conceal his face, whilst his phallus (mostly lost, but likely macrophallic) is exposed. Mould-made from a two-piece mould and hollow with a circular vent hole in the crudely made back. Traces of a thick white coating and pink paint. Red-brown Nile silt fabric, with abundant mica and sand inclusions. Part of back and all of base are missing."
   },
   {
+    path: "Images/473.jpeg",
+    objectId: 473,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: ""
+  },
+  {
+    path: "Images/474.jpeg",
+    objectId: 474,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: ""
+  },
+  {
+    path: "Images/475.JPG",
+    objectId: 475,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: ""
+  },
+  {
+    path: "Images/476.JPG",
+    objectId: 476,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: ""
+  },
+  {
+    path: "Images/478.jpeg",
+    objectId: 478,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: ""
+  },
+  {
+    path: "Images/479.jpeg",
+    objectId: 479,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: ""
+  },
+  {
     path: "Images/48.jpg",
     objectId: 48,
     tags: [],
@@ -1852,6 +2059,105 @@ const IMAGES = [
     lat: null,
     lng: null,
     description: "Terracotta group of Aphrodite (her upper half missing), Eros holding a torch, and Priapus holding out fruit."
+  },
+  {
+    path: "Images/480a.JPG",
+    objectId: 480,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: ""
+  },
+  {
+    path: "Images/480b.JPG",
+    objectId: 480,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: ""
+  },
+  {
+    path: "Images/480c.JPG",
+    objectId: 480,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: ""
+  },
+  {
+    path: "Images/480d.jpeg",
+    objectId: 480,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: ""
+  },
+  {
+    path: "Images/481.jpeg",
+    objectId: 481,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: ""
+  },
+  {
+    path: "Images/483a.jpeg",
+    objectId: 483,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: ""
+  },
+  {
+    path: "Images/483b.JPG",
+    objectId: 483,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: ""
+  },
+  {
+    path: "Images/483c.jpeg",
+    objectId: 483,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: ""
+  },
+  {
+    path: "Images/483d.jpeg",
+    objectId: 483,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: ""
+  },
+  {
+    path: "Images/484a.JPG",
+    objectId: 484,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: ""
+  },
+  {
+    path: "Images/484b.jpeg",
+    objectId: 484,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: ""
   },
   {
     path: "Images/49.jpg",
@@ -2032,41 +2338,5 @@ const IMAGES = [
     lat: null,
     lng: null,
     description: "88 Statuette, fr., tuff. Pompeii, Antiquarium. Found in front of the workshop Pompeii I 20, 2. 3. - Elia, 0., CronPomp 1, 1975, 134-135 fig. II; Eschebach, H., Pompeii. Erlebte ant. Welt (1984) 313 fig. 74. - 1st century BC. - P. Stützftgur for gladiator holding his shield over his head. Sacrifice to Priapos"
-  },
-  {
-    path: "Images/Montes 1.jpg",
-    objectId: 0,
-    tags: [],
-    objectType: "",
-    lat: null,
-    lng: null,
-    description: ""
-  },
-  {
-    path: "Images/Pan 204.jpg",
-    objectId: 0,
-    tags: [],
-    objectType: "",
-    lat: null,
-    lng: null,
-    description: ""
-  },
-  {
-    path: "Images/priapus vettii.jpg",
-    objectId: 0,
-    tags: [],
-    objectType: "",
-    lat: null,
-    lng: null,
-    description: ""
-  },
-  {
-    path: "Images/Venus 367.jpg",
-    objectId: 0,
-    tags: [],
-    objectType: "",
-    lat: null,
-    lng: null,
-    description: ""
   },
 ];
