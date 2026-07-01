@@ -193,19 +193,89 @@ function escapeHtml(str) {
   return d.innerHTML;
 }
 
+// ── Boolean search parser ──
+function tokenize(query) {
+  const tokens = [];
+  const re = /\(|\)|AND|OR|NOT|["][^"]*["]|[^\s()]+/gi;
+  let m;
+  while ((m = re.exec(query)) !== null) tokens.push(m[0]);
+  return tokens;
+}
+
+function parseBoolExpr(tokens) {
+  let pos = 0;
+  function peek() { return tokens[pos] || null; }
+  function consume() { return tokens[pos++] || null; }
+
+  function parseExpr() {
+    let left = parseTerm();
+    while (peek() && peek().toUpperCase() === 'OR') {
+      consume();
+      left = { op: 'OR', left, right: parseTerm() };
+    }
+    return left;
+  }
+
+  function parseTerm() {
+    let left = parseFactor();
+    while (peek() && peek().toUpperCase() !== 'OR' && peek() !== ')') {
+      if (peek().toUpperCase() === 'AND') consume();
+      left = { op: 'AND', left, right: parseFactor() };
+    }
+    return left;
+  }
+
+  function parseFactor() {
+    if (peek() && peek().toUpperCase() === 'NOT') {
+      consume();
+      return { op: 'NOT', arg: parseFactor() };
+    }
+    if (peek() === '(') {
+      consume();
+      const e = parseExpr();
+      if (peek() === ')') consume();
+      return e;
+    }
+    const t = consume();
+    if (t) return { op: 'WORD', value: t.replace(/^"|"$/g, '').toLowerCase() };
+    return null;
+  }
+
+  return parseExpr();
+}
+
+function evalBool(ast, text) {
+  if (!ast) return true;
+  const lower = text.toLowerCase();
+  switch (ast.op) {
+    case 'WORD': return lower.includes(ast.value);
+    case 'NOT': return !evalBool(ast.arg, lower);
+    case 'AND': return evalBool(ast.left, lower) && evalBool(ast.right, lower);
+    case 'OR': return evalBool(ast.left, lower) || evalBool(ast.right, lower);
+    default: return true;
+  }
+}
+
+function booleanSearch(query, text) {
+  if (!query.trim()) return true;
+  try {
+    const ast = parseBoolExpr(tokenize(query));
+    return evalBool(ast, text);
+  } catch { return true; }
+}
+
 // ── Search ──
 function onSearch() {
-  searchQuery = document.getElementById('searchInput').value.toLowerCase().trim();
+  searchQuery = document.getElementById('searchInput').value.trim();
   renderGallery();
 }
 
 function groupMatches(group, query) {
   if (!query) return true;
-  return group.files.some(item =>
-    item.description.toLowerCase().includes(query) ||
-    item.objectType.toLowerCase().includes(query) ||
-    item.tags.some(t => t.toLowerCase().includes(query))
-  );
+  return group.files.some(item => {
+    const text = [item.description, item.objectType, ...item.tags].join(' ');
+    return booleanSearch(query, text);
+  });
 }
 
 // ── Render gallery (one thumbnail per group) ──
