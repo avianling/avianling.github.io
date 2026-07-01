@@ -229,7 +229,7 @@ function renderGallery() {
     const typeInfo = first.objectType ? ` &middot; ${first.objectType}` : '';
     return `
       <div class="card" onclick="showSubImages(${g.id})">
-        <img src="${first.path}" alt="Object ${g.id}" loading="lazy">
+        <img src="Thumbnails/${first.path.split('/').pop()}" alt="Object ${g.id}" loading="lazy">
         <div class="label">Object ${g.id} (${g.files.length})${typeInfo}</div>
         <div class="meta">${escapeHtml(first.description || '')}</div>
       </div>
