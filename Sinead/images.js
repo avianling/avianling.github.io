@@ -342,6 +342,114 @@ const IMAGES = [
     description: "Marble Priapus fountain from the House of the Vettii at Pompeii (VI.15.1). Photo:"
   },
   {
+    path: "Images/190a.JPG",
+    objectId: 190,
+    tags: [],
+    objectType: "fountain",
+    lat: 40.74941,
+    lng: 14.485429,
+    description: "Marble Priapus fountain from the House of the Vettii at Pompeii (VI.15.1). Photo:"
+  },
+  {
+    path: "Images/190b.JPG",
+    objectId: 190,
+    tags: [],
+    objectType: "fountain",
+    lat: 40.74941,
+    lng: 14.485429,
+    description: "Marble Priapus fountain from the House of the Vettii at Pompeii (VI.15.1). Photo:"
+  },
+  {
+    path: "Images/190c.jpeg",
+    objectId: 190,
+    tags: [],
+    objectType: "fountain",
+    lat: 40.74941,
+    lng: 14.485429,
+    description: "Marble Priapus fountain from the House of the Vettii at Pompeii (VI.15.1). Photo:"
+  },
+  {
+    path: "Images/190d.JPG",
+    objectId: 190,
+    tags: [],
+    objectType: "fountain",
+    lat: 40.74941,
+    lng: 14.485429,
+    description: "Marble Priapus fountain from the House of the Vettii at Pompeii (VI.15.1). Photo:"
+  },
+  {
+    path: "Images/190e.JPG",
+    objectId: 190,
+    tags: [],
+    objectType: "fountain",
+    lat: 40.74941,
+    lng: 14.485429,
+    description: "Marble Priapus fountain from the House of the Vettii at Pompeii (VI.15.1). Photo:"
+  },
+  {
+    path: "Images/190f.JPG",
+    objectId: 190,
+    tags: [],
+    objectType: "fountain",
+    lat: 40.74941,
+    lng: 14.485429,
+    description: "Marble Priapus fountain from the House of the Vettii at Pompeii (VI.15.1). Photo:"
+  },
+  {
+    path: "Images/190g.JPG",
+    objectId: 190,
+    tags: [],
+    objectType: "fountain",
+    lat: 40.74941,
+    lng: 14.485429,
+    description: "Marble Priapus fountain from the House of the Vettii at Pompeii (VI.15.1). Photo:"
+  },
+  {
+    path: "Images/190i.JPG",
+    objectId: 190,
+    tags: [],
+    objectType: "fountain",
+    lat: 40.74941,
+    lng: 14.485429,
+    description: "Marble Priapus fountain from the House of the Vettii at Pompeii (VI.15.1). Photo:"
+  },
+  {
+    path: "Images/190j.JPG",
+    objectId: 190,
+    tags: [],
+    objectType: "fountain",
+    lat: 40.74941,
+    lng: 14.485429,
+    description: "Marble Priapus fountain from the House of the Vettii at Pompeii (VI.15.1). Photo:"
+  },
+  {
+    path: "Images/190k.JPG",
+    objectId: 190,
+    tags: [],
+    objectType: "fountain",
+    lat: 40.74941,
+    lng: 14.485429,
+    description: "Marble Priapus fountain from the House of the Vettii at Pompeii (VI.15.1). Photo:"
+  },
+  {
+    path: "Images/190l.JPG",
+    objectId: 190,
+    tags: [],
+    objectType: "fountain",
+    lat: 40.74941,
+    lng: 14.485429,
+    description: "Marble Priapus fountain from the House of the Vettii at Pompeii (VI.15.1). Photo:"
+  },
+  {
+    path: "Images/190m.JPG",
+    objectId: 190,
+    tags: [],
+    objectType: "fountain",
+    lat: 40.74941,
+    lng: 14.485429,
+    description: "Marble Priapus fountain from the House of the Vettii at Pompeii (VI.15.1). Photo:"
+  },
+  {
     path: "Images/192.jpg",
     objectId: 192,
     tags: [],
@@ -538,6 +646,69 @@ const IMAGES = [
     lat: 40.74941,
     lng: 14.485429,
     description: "51st - Wall painting, lost (after drawing DA! Rome). From Pompeii VII 3, 25. -Rostovtsev, M., RM 26, I9II, 45 fig. 25; Schefold, WP r77; idem, AM7r, r956, 223 Suppl. 124. 3rd style r. in front at water on  rocky ledge P. idol, a second apparently behind 1st J\\.1it Pan"
+  },
+  {
+    path: "Images/214a.jpeg",
+    objectId: 214,
+    tags: [],
+    objectType: "inlay",
+    lat: 40.74941,
+    lng: 14.485429,
+    description: "36. marble inlay. Naples, Mus. Naz. 9977. from Pompeii VII 4, 31- 51, tablinum d. - Elia, 0., Bol/Arte r929, 265-276; Schefold, WP 183. - P.ldol on rock in Dionysian thiasos. With Victoria"
+  },
+  {
+    path: "Images/214b.jpeg",
+    objectId: 214,
+    tags: [],
+    objectType: "inlay",
+    lat: 40.74941,
+    lng: 14.485429,
+    description: "36. marble inlay. Naples, Mus. Naz. 9977. from Pompeii VII 4, 31- 51, tablinum d. - Elia, 0., Bol/Arte r929, 265-276; Schefold, WP 183. - P.ldol on rock in Dionysian thiasos. With Victoria"
+  },
+  {
+    path: "Images/214c.jpeg",
+    objectId: 214,
+    tags: [],
+    objectType: "inlay",
+    lat: 40.74941,
+    lng: 14.485429,
+    description: "36. marble inlay. Naples, Mus. Naz. 9977. from Pompeii VII 4, 31- 51, tablinum d. - Elia, 0., Bol/Arte r929, 265-276; Schefold, WP 183. - P.ldol on rock in Dionysian thiasos. With Victoria"
+  },
+  {
+    path: "Images/214d.jpeg",
+    objectId: 214,
+    tags: [],
+    objectType: "inlay",
+    lat: 40.74941,
+    lng: 14.485429,
+    description: "36. marble inlay. Naples, Mus. Naz. 9977. from Pompeii VII 4, 31- 51, tablinum d. - Elia, 0., Bol/Arte r929, 265-276; Schefold, WP 183. - P.ldol on rock in Dionysian thiasos. With Victoria"
+  },
+  {
+    path: "Images/214e.jpeg",
+    objectId: 214,
+    tags: [],
+    objectType: "inlay",
+    lat: 40.74941,
+    lng: 14.485429,
+    description: "36. marble inlay. Naples, Mus. Naz. 9977. from Pompeii VII 4, 31- 51, tablinum d. - Elia, 0., Bol/Arte r929, 265-276; Schefold, WP 183. - P.ldol on rock in Dionysian thiasos. With Victoria"
+  },
+  {
+    path: "Images/214f.jpeg",
+    objectId: 214,
+    tags: [],
+    objectType: "inlay",
+    lat: 40.74941,
+    lng: 14.485429,
+    description: "36. marble inlay. Naples, Mus. Naz. 9977. from Pompeii VII 4, 31- 51, tablinum d. - Elia, 0., Bol/Arte r929, 265-276; Schefold, WP 183. - P.ldol on rock in Dionysian thiasos. With Victoria"
+  },
+  {
+    path: "Images/214g.JPG",
+    objectId: 214,
+    tags: [],
+    objectType: "inlay",
+    lat: 40.74941,
+    lng: 14.485429,
+    description: "36. marble inlay. Naples, Mus. Naz. 9977. from Pompeii VII 4, 31- 51, tablinum d. - Elia, 0., Bol/Arte r929, 265-276; Schefold, WP 183. - P.ldol on rock in Dionysian thiasos. With Victoria"
   },
   {
     path: "Images/216b.jpg",
@@ -1998,6 +2169,267 @@ const IMAGES = [
     description: "Allegorical relief"
   },
   {
+    path: "Images/449a.jpeg",
+    objectId: 449,
+    tags: [],
+    objectType: "relief",
+    lat: null,
+    lng: null,
+    description: "Allegorical relief"
+  },
+  {
+    path: "Images/449b.jpeg",
+    objectId: 449,
+    tags: [],
+    objectType: "relief",
+    lat: null,
+    lng: null,
+    description: "Allegorical relief"
+  },
+  {
+    path: "Images/449c.jpeg",
+    objectId: 449,
+    tags: [],
+    objectType: "relief",
+    lat: null,
+    lng: null,
+    description: "Allegorical relief"
+  },
+  {
+    path: "Images/449d.jpeg",
+    objectId: 449,
+    tags: [],
+    objectType: "relief",
+    lat: null,
+    lng: null,
+    description: "Allegorical relief"
+  },
+  {
+    path: "Images/449e.jpeg",
+    objectId: 449,
+    tags: [],
+    objectType: "relief",
+    lat: null,
+    lng: null,
+    description: "Allegorical relief"
+  },
+  {
+    path: "Images/449f.jpeg",
+    objectId: 449,
+    tags: [],
+    objectType: "relief",
+    lat: null,
+    lng: null,
+    description: "Allegorical relief"
+  },
+  {
+    path: "Images/449g.jpeg",
+    objectId: 449,
+    tags: [],
+    objectType: "relief",
+    lat: null,
+    lng: null,
+    description: "Allegorical relief"
+  },
+  {
+    path: "Images/449h.jpeg",
+    objectId: 449,
+    tags: [],
+    objectType: "relief",
+    lat: null,
+    lng: null,
+    description: "Allegorical relief"
+  },
+  {
+    path: "Images/449i.jpeg",
+    objectId: 449,
+    tags: [],
+    objectType: "relief",
+    lat: null,
+    lng: null,
+    description: "Allegorical relief"
+  },
+  {
+    path: "Images/449j.jpeg",
+    objectId: 449,
+    tags: [],
+    objectType: "relief",
+    lat: null,
+    lng: null,
+    description: "Allegorical relief"
+  },
+  {
+    path: "Images/449k.jpeg",
+    objectId: 449,
+    tags: [],
+    objectType: "relief",
+    lat: null,
+    lng: null,
+    description: "Allegorical relief"
+  },
+  {
+    path: "Images/449l.jpeg",
+    objectId: 449,
+    tags: [],
+    objectType: "relief",
+    lat: null,
+    lng: null,
+    description: "Allegorical relief"
+  },
+  {
+    path: "Images/449m.jpeg",
+    objectId: 449,
+    tags: [],
+    objectType: "relief",
+    lat: null,
+    lng: null,
+    description: "Allegorical relief"
+  },
+  {
+    path: "Images/450a.jpeg",
+    objectId: 450,
+    tags: [],
+    objectType: "mosaic",
+    lat: null,
+    lng: null,
+    description: "Black and white mosaic with Nile scene and pygmies"
+  },
+  {
+    path: "Images/450b.jpeg",
+    objectId: 450,
+    tags: [],
+    objectType: "mosaic",
+    lat: null,
+    lng: null,
+    description: "Black and white mosaic with Nile scene and pygmies"
+  },
+  {
+    path: "Images/452a.jpeg",
+    objectId: 452,
+    tags: [],
+    objectType: "mosaic",
+    lat: null,
+    lng: null,
+    description: "Mosaic with Pan and the nymph Pytis"
+  },
+  {
+    path: "Images/452b.jpeg",
+    objectId: 452,
+    tags: [],
+    objectType: "mosaic",
+    lat: null,
+    lng: null,
+    description: "Mosaic with Pan and the nymph Pytis"
+  },
+  {
+    path: "Images/452c.jpeg",
+    objectId: 452,
+    tags: [],
+    objectType: "mosaic",
+    lat: null,
+    lng: null,
+    description: "Mosaic with Pan and the nymph Pytis"
+  },
+  {
+    path: "Images/452d.jpeg",
+    objectId: 452,
+    tags: [],
+    objectType: "mosaic",
+    lat: null,
+    lng: null,
+    description: "Mosaic with Pan and the nymph Pytis"
+  },
+  {
+    path: "Images/454a.jpeg",
+    objectId: 454,
+    tags: [],
+    objectType: "burial cippi",
+    lat: null,
+    lng: null,
+    description: "Three phallic burial cippi with Etruscan inscriptions"
+  },
+  {
+    path: "Images/454b.jpeg",
+    objectId: 454,
+    tags: [],
+    objectType: "burial cippi",
+    lat: null,
+    lng: null,
+    description: "Three phallic burial cippi with Etruscan inscriptions"
+  },
+  {
+    path: "Images/454c.jpeg",
+    objectId: 454,
+    tags: [],
+    objectType: "burial cippi",
+    lat: null,
+    lng: null,
+    description: "Three phallic burial cippi with Etruscan inscriptions"
+  },
+  {
+    path: "Images/454d.jpeg",
+    objectId: 454,
+    tags: [],
+    objectType: "burial cippi",
+    lat: null,
+    lng: null,
+    description: "Three phallic burial cippi with Etruscan inscriptions"
+  },
+  {
+    path: "Images/454e.jpeg",
+    objectId: 454,
+    tags: [],
+    objectType: "burial cippi",
+    lat: null,
+    lng: null,
+    description: "Three phallic burial cippi with Etruscan inscriptions"
+  },
+  {
+    path: "Images/454f.jpeg",
+    objectId: 454,
+    tags: [],
+    objectType: "burial cippi",
+    lat: null,
+    lng: null,
+    description: "Three phallic burial cippi with Etruscan inscriptions"
+  },
+  {
+    path: "Images/454g.jpeg",
+    objectId: 454,
+    tags: [],
+    objectType: "burial cippi",
+    lat: null,
+    lng: null,
+    description: "Three phallic burial cippi with Etruscan inscriptions"
+  },
+  {
+    path: "Images/454h.jpeg",
+    objectId: 454,
+    tags: [],
+    objectType: "burial cippi",
+    lat: null,
+    lng: null,
+    description: "Three phallic burial cippi with Etruscan inscriptions"
+  },
+  {
+    path: "Images/454i.jpeg",
+    objectId: 454,
+    tags: [],
+    objectType: "burial cippi",
+    lat: null,
+    lng: null,
+    description: "Three phallic burial cippi with Etruscan inscriptions"
+  },
+  {
+    path: "Images/454j.jpeg",
+    objectId: 454,
+    tags: [],
+    objectType: "burial cippi",
+    lat: null,
+    lng: null,
+    description: "Three phallic burial cippi with Etruscan inscriptions"
+  },
+  {
     path: "Images/455.JPG",
     objectId: 455,
     tags: [],
@@ -2019,7 +2451,7 @@ const IMAGES = [
     path: "Images/457.JPG",
     objectId: 457,
     tags: [],
-    objectType: "",
+    objectType: "red-figure crater",
     lat: null,
     lng: null,
     description: "Bell red figure crater with banqueters and courtesan"
@@ -2028,7 +2460,7 @@ const IMAGES = [
     path: "Images/458a.jpeg",
     objectId: 458,
     tags: [],
-    objectType: "",
+    objectType: "statuette",
     lat: null,
     lng: null,
     description: "Bronze statuette of ithyphallic satyr"
@@ -2037,7 +2469,7 @@ const IMAGES = [
     path: "Images/458b.jpeg",
     objectId: 458,
     tags: [],
-    objectType: "",
+    objectType: "statuette",
     lat: null,
     lng: null,
     description: "Bronze statuette of ithyphallic satyr"
@@ -2046,7 +2478,7 @@ const IMAGES = [
     path: "Images/459.JPG",
     objectId: 459,
     tags: [],
-    objectType: "",
+    objectType: "red-figure dish",
     lat: null,
     lng: null,
     description: "Attic red figure dish with erotic scene"
@@ -2064,7 +2496,7 @@ const IMAGES = [
     path: "Images/460.JPG",
     objectId: 460,
     tags: [],
-    objectType: "crater",
+    objectType: "red-figure crater",
     lat: null,
     lng: null,
     description: "Bell red figure crater with popular scene from comedy"
@@ -2115,6 +2547,132 @@ const IMAGES = [
     description: "Twenty-four terracotta phalluses, anatomical ex-votos"
   },
   {
+    path: "Images/464a.jpeg",
+    objectId: 464,
+    tags: [],
+    objectType: "wall painting",
+    lat: null,
+    lng: null,
+    description: "Satyr apprehending a maenad. (Possibly includes Priapus statue in the background.)"
+  },
+  {
+    path: "Images/466a.jpeg",
+    objectId: 466,
+    tags: [],
+    objectType: "wall painting",
+    lat: null,
+    lng: null,
+    description: "Satyr and nymph"
+  },
+  {
+    path: "Images/466b.jpeg",
+    objectId: 466,
+    tags: [],
+    objectType: "wall painting",
+    lat: null,
+    lng: null,
+    description: "Satyr and nymph"
+  },
+  {
+    path: "Images/467a.jpeg",
+    objectId: 467,
+    tags: [],
+    objectType: "wall painting",
+    lat: null,
+    lng: null,
+    description: "Old satyr and Hermaphrodite"
+  },
+  {
+    path: "Images/467b.jpeg",
+    objectId: 467,
+    tags: [],
+    objectType: "wall painting",
+    lat: null,
+    lng: null,
+    description: "Old satyr and Hermaphrodite"
+  },
+  {
+    path: "Images/468.jpeg",
+    objectId: 468,
+    tags: [],
+    objectType: "wall painting",
+    lat: null,
+    lng: null,
+    description: "Satyr and Hermaphrodite"
+  },
+  {
+    path: "Images/469a.jpeg",
+    objectId: 469,
+    tags: [],
+    objectType: "wall painting",
+    lat: null,
+    lng: null,
+    description: "Satyr trying to unite with Hermaphrodite"
+  },
+  {
+    path: "Images/469b.jpeg",
+    objectId: 469,
+    tags: [],
+    objectType: "wall painting",
+    lat: null,
+    lng: null,
+    description: "Satyr trying to unite with Hermaphrodite"
+  },
+  {
+    path: "Images/469c.jpeg",
+    objectId: 469,
+    tags: [],
+    objectType: "wall painting",
+    lat: null,
+    lng: null,
+    description: "Satyr trying to unite with Hermaphrodite"
+  },
+  {
+    path: "Images/470a.jpeg",
+    objectId: 470,
+    tags: [],
+    objectType: "wall painting",
+    lat: null,
+    lng: null,
+    description: "Satyr and maenad"
+  },
+  {
+    path: "Images/470b.jpeg",
+    objectId: 470,
+    tags: [],
+    objectType: "wall painting",
+    lat: null,
+    lng: null,
+    description: "Satyr and maenad"
+  },
+  {
+    path: "Images/470c.jpeg",
+    objectId: 470,
+    tags: [],
+    objectType: "wall painting",
+    lat: null,
+    lng: null,
+    description: "Satyr and maenad"
+  },
+  {
+    path: "Images/471.jpeg",
+    objectId: 471,
+    tags: [],
+    objectType: "wall painting",
+    lat: null,
+    lng: null,
+    description: "Drawing on red background of satyr and nymph"
+  },
+  {
+    path: "Images/472.JPG",
+    objectId: 472,
+    tags: [],
+    objectType: "wall painting",
+    lat: null,
+    lng: null,
+    description: "Apollo and Daphne"
+  },
+  {
     path: "Images/473.jpeg",
     objectId: 473,
     tags: [],
@@ -2151,7 +2709,97 @@ const IMAGES = [
     description: "Satyr embracing a maenad"
   },
   {
+    path: "Images/476a.jpeg",
+    objectId: 476,
+    tags: [],
+    objectType: "wall painting",
+    lat: null,
+    lng: null,
+    description: "Satyr embracing a maenad"
+  },
+  {
+    path: "Images/476b.JPG",
+    objectId: 476,
+    tags: [],
+    objectType: "wall painting",
+    lat: null,
+    lng: null,
+    description: "Satyr embracing a maenad"
+  },
+  {
+    path: "Images/476c.jpeg",
+    objectId: 476,
+    tags: [],
+    objectType: "wall painting",
+    lat: null,
+    lng: null,
+    description: "Satyr embracing a maenad"
+  },
+  {
+    path: "Images/477.jpeg",
+    objectId: 477,
+    tags: [],
+    objectType: "wall painting",
+    lat: null,
+    lng: null,
+    description: "Mars and Venus"
+  },
+  {
     path: "Images/478.jpeg",
+    objectId: 478,
+    tags: [],
+    objectType: "wall painting",
+    lat: null,
+    lng: null,
+    description: "Caricature of Aeneas, Anchises and Ascanius"
+  },
+  {
+    path: "Images/478b.jpeg",
+    objectId: 478,
+    tags: [],
+    objectType: "wall painting",
+    lat: null,
+    lng: null,
+    description: "Caricature of Aeneas, Anchises and Ascanius"
+  },
+  {
+    path: "Images/478c.jpeg",
+    objectId: 478,
+    tags: [],
+    objectType: "wall painting",
+    lat: null,
+    lng: null,
+    description: "Caricature of Aeneas, Anchises and Ascanius"
+  },
+  {
+    path: "Images/478d.jpeg",
+    objectId: 478,
+    tags: [],
+    objectType: "wall painting",
+    lat: null,
+    lng: null,
+    description: "Caricature of Aeneas, Anchises and Ascanius"
+  },
+  {
+    path: "Images/478e.jpeg",
+    objectId: 478,
+    tags: [],
+    objectType: "wall painting",
+    lat: null,
+    lng: null,
+    description: "Caricature of Aeneas, Anchises and Ascanius"
+  },
+  {
+    path: "Images/478f.jpeg",
+    objectId: 478,
+    tags: [],
+    objectType: "wall painting",
+    lat: null,
+    lng: null,
+    description: "Caricature of Aeneas, Anchises and Ascanius"
+  },
+  {
+    path: "Images/478h.jpeg",
     objectId: 478,
     tags: [],
     objectType: "wall painting",
@@ -2196,6 +2844,15 @@ const IMAGES = [
     description: "Painting from banqueting couch with scenes of pygmies"
   },
   {
+    path: "Images/480c.jpeg",
+    objectId: 480,
+    tags: [],
+    objectType: "wall painting",
+    lat: null,
+    lng: null,
+    description: "Painting from banqueting couch with scenes of pygmies"
+  },
+  {
     path: "Images/480c.JPG",
     objectId: 480,
     tags: [],
@@ -2216,6 +2873,42 @@ const IMAGES = [
   {
     path: "Images/481.jpeg",
     objectId: 481,
+    tags: [],
+    objectType: "wall painting",
+    lat: null,
+    lng: null,
+    description: "Painting from banqueting couch with scenes of pygmies"
+  },
+  {
+    path: "Images/481a.jpeg",
+    objectId: 481,
+    tags: [],
+    objectType: "wall painting",
+    lat: null,
+    lng: null,
+    description: "Painting from banqueting couch with scenes of pygmies"
+  },
+  {
+    path: "Images/481b.JPG",
+    objectId: 481,
+    tags: [],
+    objectType: "wall painting",
+    lat: null,
+    lng: null,
+    description: "Painting from banqueting couch with scenes of pygmies"
+  },
+  {
+    path: "Images/481c.JPG",
+    objectId: 481,
+    tags: [],
+    objectType: "wall painting",
+    lat: null,
+    lng: null,
+    description: "Painting from banqueting couch with scenes of pygmies"
+  },
+  {
+    path: "Images/482a.JPG",
+    objectId: 482,
     tags: [],
     objectType: "wall painting",
     lat: null,
@@ -2502,6 +3195,33 @@ const IMAGES = [
     description: "Venus \"in bikini\""
   },
   {
+    path: "Images/492d.jpeg",
+    objectId: 492,
+    tags: [],
+    objectType: "sculptural group",
+    lat: null,
+    lng: null,
+    description: "Venus \"in bikini\""
+  },
+  {
+    path: "Images/492e.jpeg",
+    objectId: 492,
+    tags: [],
+    objectType: "sculptural group",
+    lat: null,
+    lng: null,
+    description: "Venus \"in bikini\""
+  },
+  {
+    path: "Images/492f.jpeg",
+    objectId: 492,
+    tags: [],
+    objectType: "sculptural group",
+    lat: null,
+    lng: null,
+    description: "Venus \"in bikini\""
+  },
+  {
     path: "Images/493.jpeg",
     objectId: 493,
     tags: [],
@@ -2736,6 +3456,15 @@ const IMAGES = [
     description: "Bronze statuette of blockhead"
   },
   {
+    path: "Images/506d.jpeg",
+    objectId: 506,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "Bronze statuette of blockhead"
+  },
+  {
     path: "Images/507.jpeg",
     objectId: 507,
     tags: [],
@@ -2763,6 +3492,15 @@ const IMAGES = [
     description: "two earthenware vases featuring grotesque and ithyphallic dwarves"
   },
   {
+    path: "Images/507d.jpeg",
+    objectId: 507,
+    tags: [],
+    objectType: "priapic drinking vessel",
+    lat: null,
+    lng: null,
+    description: "two earthenware vases featuring grotesque and ithyphallic dwarves"
+  },
+  {
     path: "Images/507e.jpeg",
     objectId: 507,
     tags: [],
@@ -2782,6 +3520,15 @@ const IMAGES = [
   },
   {
     path: "Images/508.jpeg",
+    objectId: 508,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "two statuettes of dancing dwarves"
+  },
+  {
+    path: "Images/508a.jpeg",
     objectId: 508,
     tags: [],
     objectType: "statuette",
@@ -2835,6 +3582,33 @@ const IMAGES = [
     description: "two statuettes of dancing dwarves"
   },
   {
+    path: "Images/509a.jpeg",
+    objectId: 509,
+    tags: [],
+    objectType: "tintinnabulum",
+    lat: null,
+    lng: null,
+    description: "bronze tintinnabulum of Mercury riding an ithyphallic ram"
+  },
+  {
+    path: "Images/509b.jpeg",
+    objectId: 509,
+    tags: [],
+    objectType: "tintinnabulum",
+    lat: null,
+    lng: null,
+    description: "bronze tintinnabulum of Mercury riding an ithyphallic ram"
+  },
+  {
+    path: "Images/509c.jpeg",
+    objectId: 509,
+    tags: [],
+    objectType: "tintinnabulum",
+    lat: null,
+    lng: null,
+    description: "bronze tintinnabulum of Mercury riding an ithyphallic ram"
+  },
+  {
     path: "Images/51.jpg",
     objectId: 51,
     tags: [],
@@ -2842,6 +3616,168 @@ const IMAGES = [
     lat: null,
     lng: null,
     description: "Sard gem engraved with a draped seated figure holding a thyrsos; behind is a smaller draped figure holding an object and a pole over the shoulder, from which hangs a basket (?). On the right is a small terminal figure on a column, perhaps Priapos (?)."
+  },
+  {
+    path: "Images/510a.jpeg",
+    objectId: 510,
+    tags: [],
+    objectType: "tintinnabulum",
+    lat: null,
+    lng: null,
+    description: "Bronze tintinnabulum of satyr as a fighting cock"
+  },
+  {
+    path: "Images/510b.jpeg",
+    objectId: 510,
+    tags: [],
+    objectType: "tintinnabulum",
+    lat: null,
+    lng: null,
+    description: "Bronze tintinnabulum of satyr as a fighting cock"
+  },
+  {
+    path: "Images/510c.jpeg",
+    objectId: 510,
+    tags: [],
+    objectType: "tintinnabulum",
+    lat: null,
+    lng: null,
+    description: "Bronze tintinnabulum of satyr as a fighting cock"
+  },
+  {
+    path: "Images/511a.jpeg",
+    objectId: 511,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "Four bronze statuettes of bread pedlar"
+  },
+  {
+    path: "Images/511b.jpeg",
+    objectId: 511,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "Four bronze statuettes of bread pedlar"
+  },
+  {
+    path: "Images/511c.jpeg",
+    objectId: 511,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "Four bronze statuettes of bread pedlar"
+  },
+  {
+    path: "Images/511d.jpeg",
+    objectId: 511,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "Four bronze statuettes of bread pedlar"
+  },
+  {
+    path: "Images/511e.jpeg",
+    objectId: 511,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "Four bronze statuettes of bread pedlar"
+  },
+  {
+    path: "Images/511f.jpeg",
+    objectId: 511,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "Four bronze statuettes of bread pedlar"
+  },
+  {
+    path: "Images/511g.jpeg",
+    objectId: 511,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "Four bronze statuettes of bread pedlar"
+  },
+  {
+    path: "Images/511h.jpeg",
+    objectId: 511,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "Four bronze statuettes of bread pedlar"
+  },
+  {
+    path: "Images/511i.jpeg",
+    objectId: 511,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "Four bronze statuettes of bread pedlar"
+  },
+  {
+    path: "Images/511j.jpeg",
+    objectId: 511,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "Four bronze statuettes of bread pedlar"
+  },
+  {
+    path: "Images/511k.jpeg",
+    objectId: 511,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "Four bronze statuettes of bread pedlar"
+  },
+  {
+    path: "Images/511l.jpeg",
+    objectId: 511,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "Four bronze statuettes of bread pedlar"
+  },
+  {
+    path: "Images/511m.jpeg",
+    objectId: 511,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "Four bronze statuettes of bread pedlar"
+  },
+  {
+    path: "Images/511n.jpeg",
+    objectId: 511,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "Four bronze statuettes of bread pedlar"
+  },
+  {
+    path: "Images/511o.jpeg",
+    objectId: 511,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "Four bronze statuettes of bread pedlar"
   },
   {
     path: "Images/512.jpeg",
@@ -2887,6 +3823,15 @@ const IMAGES = [
     lat: null,
     lng: null,
     description: "Bronze basin with erotic scene on the bottom"
+  },
+  {
+    path: "Images/517 maybe.jpeg",
+    objectId: 517,
+    tags: [],
+    objectType: "tintinnabulum",
+    lat: null,
+    lng: null,
+    description: "Bronze tintinnabulum with grotesque gladiator"
   },
   {
     path: "Images/52.jpg",
@@ -3078,7 +4023,43 @@ const IMAGES = [
     description: "Bronze tintinnabulum"
   },
   {
+    path: "Images/527.jpeg",
+    objectId: 527,
+    tags: [],
+    objectType: "tintinnabulum",
+    lat: null,
+    lng: null,
+    description: "Bronze tintinnabulum with phallus-chimera"
+  },
+  {
+    path: "Images/527b.jpeg",
+    objectId: 527,
+    tags: [],
+    objectType: "tintinnabulum",
+    lat: null,
+    lng: null,
+    description: "Bronze tintinnabulum with phallus-chimera"
+  },
+  {
     path: "Images/528.jpeg",
+    objectId: 528,
+    tags: [],
+    objectType: "lamp",
+    lat: null,
+    lng: null,
+    description: "Terracotta oil lamp with grotesque intellectual"
+  },
+  {
+    path: "Images/528b.jpeg",
+    objectId: 528,
+    tags: [],
+    objectType: "lamp",
+    lat: null,
+    lng: null,
+    description: "Terracotta oil lamp with grotesque intellectual"
+  },
+  {
+    path: "Images/528c.jpeg",
     objectId: 528,
     tags: [],
     objectType: "lamp",
@@ -3132,6 +4113,42 @@ const IMAGES = [
     description: "Three terracotta oil lamps with grotesque satyr"
   },
   {
+    path: "Images/529f.jpeg",
+    objectId: 529,
+    tags: [],
+    objectType: "lamp",
+    lat: null,
+    lng: null,
+    description: "Three terracotta oil lamps with grotesque satyr"
+  },
+  {
+    path: "Images/529h.jpeg",
+    objectId: 529,
+    tags: [],
+    objectType: "lamp",
+    lat: null,
+    lng: null,
+    description: "Three terracotta oil lamps with grotesque satyr"
+  },
+  {
+    path: "Images/529i.jpeg",
+    objectId: 529,
+    tags: [],
+    objectType: "lamp",
+    lat: null,
+    lng: null,
+    description: "Three terracotta oil lamps with grotesque satyr"
+  },
+  {
+    path: "Images/529j.jpeg",
+    objectId: 529,
+    tags: [],
+    objectType: "lamp",
+    lat: null,
+    lng: null,
+    description: "Three terracotta oil lamps with grotesque satyr"
+  },
+  {
     path: "Images/53.jpg",
     objectId: 53,
     tags: [],
@@ -3148,6 +4165,24 @@ const IMAGES = [
     lat: null,
     lng: null,
     description: "Three terracottta oil lamps with erotic scene"
+  },
+  {
+    path: "Images/531.jpeg",
+    objectId: 531,
+    tags: [],
+    objectType: "lamp",
+    lat: null,
+    lng: null,
+    description: "Two terracottta oil lamps with erotic scene"
+  },
+  {
+    path: "Images/532.jpeg",
+    objectId: 532,
+    tags: [],
+    objectType: "lamp",
+    lat: null,
+    lng: null,
+    description: "Terracotta oil lamp with erotic scene"
   },
   {
     path: "Images/533.jpeg",
@@ -3187,6 +4222,24 @@ const IMAGES = [
   },
   {
     path: "Images/535b.jpeg",
+    objectId: 535,
+    tags: [],
+    objectType: "pot",
+    lat: null,
+    lng: null,
+    description: "Earthenware mask-shaped pot"
+  },
+  {
+    path: "Images/535c.jpeg",
+    objectId: 535,
+    tags: [],
+    objectType: "pot",
+    lat: null,
+    lng: null,
+    description: "Earthenware mask-shaped pot"
+  },
+  {
+    path: "Images/535d.jpeg",
     objectId: 535,
     tags: [],
     objectType: "pot",
@@ -3267,6 +4320,186 @@ const IMAGES = [
     description: "Earthenware mask-shaped pot containing mobile phallus"
   },
   {
+    path: "Images/537a.jpeg",
+    objectId: 537,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "Bronze statuette of Priapus"
+  },
+  {
+    path: "Images/537b.JPG",
+    objectId: 537,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "Bronze statuette of Priapus"
+  },
+  {
+    path: "Images/537c.JPG",
+    objectId: 537,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "Bronze statuette of Priapus"
+  },
+  {
+    path: "Images/537d.JPG",
+    objectId: 537,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "Bronze statuette of Priapus"
+  },
+  {
+    path: "Images/537e.JPG",
+    objectId: 537,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "Bronze statuette of Priapus"
+  },
+  {
+    path: "Images/537f.JPG",
+    objectId: 537,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "Bronze statuette of Priapus"
+  },
+  {
+    path: "Images/537g.JPG",
+    objectId: 537,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "Bronze statuette of Priapus"
+  },
+  {
+    path: "Images/537h.jpeg",
+    objectId: 537,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "Bronze statuette of Priapus"
+  },
+  {
+    path: "Images/537i.jpeg",
+    objectId: 537,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "Bronze statuette of Priapus"
+  },
+  {
+    path: "Images/537j.jpeg",
+    objectId: 537,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "Bronze statuette of Priapus"
+  },
+  {
+    path: "Images/537k.JPG",
+    objectId: 537,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "Bronze statuette of Priapus"
+  },
+  {
+    path: "Images/538.JPG",
+    objectId: 538,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "Modern copy of previous statuette"
+  },
+  {
+    path: "Images/538a.jpeg",
+    objectId: 538,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "Modern copy of previous statuette"
+  },
+  {
+    path: "Images/538b.JPG",
+    objectId: 538,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "Modern copy of previous statuette"
+  },
+  {
+    path: "Images/538c.JPG",
+    objectId: 538,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "Modern copy of previous statuette"
+  },
+  {
+    path: "Images/538d.JPG",
+    objectId: 538,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "Modern copy of previous statuette"
+  },
+  {
+    path: "Images/538e.jpeg",
+    objectId: 538,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "Modern copy of previous statuette"
+  },
+  {
+    path: "Images/538f.jpeg",
+    objectId: 538,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "Modern copy of previous statuette"
+  },
+  {
+    path: "Images/539.JPG",
+    objectId: 539,
+    tags: [],
+    objectType: "figure",
+    lat: null,
+    lng: null,
+    description: "Four terracotta figures of Priapus"
+  },
+  {
+    path: "Images/539b.JPG",
+    objectId: 539,
+    tags: [],
+    objectType: "figure",
+    lat: null,
+    lng: null,
+    description: "Four terracotta figures of Priapus"
+  },
+  {
     path: "Images/54.jpg",
     objectId: 54,
     tags: [],
@@ -3274,6 +4507,159 @@ const IMAGES = [
     lat: null,
     lng: null,
     description: "Egyptian terracotta figure of Priapus standing. Priapus lifts his robe with his left arm to expose himself. His right arm is raised above his shoulder. A socket for a removable phallus is empty. Mould-made and hollow with a simple back. Traces of white coating and red-pink paint on robes. Red-brown Nile silt fabric with abundant mica and sand. Both arms, feet, base, head and phallus missing."
+  },
+  {
+    path: "Images/540.JPG",
+    objectId: 540,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Group of Eros and Psyche in terracotta"
+  },
+  {
+    path: "Images/541.JPG",
+    objectId: 541,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Couples kissing on banqueting couch in terracotta"
+  },
+  {
+    path: "Images/541b.JPG",
+    objectId: 541,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Couples kissing on banqueting couch in terracotta"
+  },
+  {
+    path: "Images/542a.JPG",
+    objectId: 542,
+    tags: [],
+    objectType: "amulet",
+    lat: null,
+    lng: null,
+    description: "Phallic amulet in silver (labelled 11 in display case)"
+  },
+  {
+    path: "Images/543a.JPG",
+    objectId: 543,
+    tags: [],
+    objectType: "amulet",
+    lat: null,
+    lng: null,
+    description: "Two phallic amulets in bronze (labelled 12 and 13 in display case)"
+  },
+  {
+    path: "Images/544a.JPG",
+    objectId: 544,
+    tags: [],
+    objectType: "amulet",
+    lat: null,
+    lng: null,
+    description: "Bronze phallic amulet with heart-shaped pendants"
+  },
+  {
+    path: "Images/544b.JPG",
+    objectId: 544,
+    tags: [],
+    objectType: "amulet",
+    lat: null,
+    lng: null,
+    description: "Bronze phallic amulet with heart-shaped pendants"
+  },
+  {
+    path: "Images/545a.jpeg",
+    objectId: 545,
+    tags: [],
+    objectType: "amulet",
+    lat: null,
+    lng: null,
+    description: "Bronze phallic amulet"
+  },
+  {
+    path: "Images/545b.JPG",
+    objectId: 545,
+    tags: [],
+    objectType: "amulet",
+    lat: null,
+    lng: null,
+    description: "Bronze phallic amulet"
+  },
+  {
+    path: "Images/545c.JPG",
+    objectId: 545,
+    tags: [],
+    objectType: "amulet",
+    lat: null,
+    lng: null,
+    description: "Bronze phallic amulet"
+  },
+  {
+    path: "Images/545d.jpeg",
+    objectId: 545,
+    tags: [],
+    objectType: "amulet",
+    lat: null,
+    lng: null,
+    description: "Bronze phallic amulet"
+  },
+  {
+    path: "Images/546.JPG",
+    objectId: 546,
+    tags: [],
+    objectType: "amulet",
+    lat: null,
+    lng: null,
+    description: "Two double amulets in bronze with phalluses and arms"
+  },
+  {
+    path: "Images/547.JPG",
+    objectId: 547,
+    tags: [],
+    objectType: "amulet",
+    lat: null,
+    lng: null,
+    description: "Double amulet in bronze with phallus and arm (labelled 18 in display cabinet)"
+  },
+  {
+    path: "Images/548.JPG",
+    objectId: 548,
+    tags: [],
+    objectType: "amulet",
+    lat: null,
+    lng: null,
+    description: "Double amulet in bronze with phallus and arm (labelled 19 in display cabinet)"
+  },
+  {
+    path: "Images/549.jpeg",
+    objectId: 549,
+    tags: [],
+    objectType: "amulet",
+    lat: null,
+    lng: null,
+    description: "Three phallic amulets in bone (labelled 20, 21 & 22 in display cabinet)"
+  },
+  {
+    path: "Images/549a.JPG",
+    objectId: 549,
+    tags: [],
+    objectType: "amulet",
+    lat: null,
+    lng: null,
+    description: "Three phallic amulets in bone (labelled 20, 21 & 22 in display cabinet)"
+  },
+  {
+    path: "Images/549b.JPG",
+    objectId: 549,
+    tags: [],
+    objectType: "amulet",
+    lat: null,
+    lng: null,
+    description: "Three phallic amulets in bone (labelled 20, 21 & 22 in display cabinet)"
   },
   {
     path: "Images/55.jpg",
@@ -3285,6 +4671,177 @@ const IMAGES = [
     description: "Terracotta mould-made figure. A standing satyr, modelled in the round, wearing a nebris fastened at the right shoulder by knotting the rear legs of the fawn, and belted at the waist, with the animal’s head hanging at his right hip and the forelegs dangling down the thigh at front and over the buttock at the rear. A himation is draped over his left shoulder, reaching the knee (with a weight) at the front; held up by his left arm, it falls at least as far as mid-calf (the legs are lost below this) at the back. His head is broken away; the arms, also largely lost, were added separately, the stumps finished in the mould, and a socket remains for his phallus. Details at the back are well-modelled. Hollow; two-piece mould. Micaceous brown Nile silt, with traces of a white dressing."
   },
   {
+    path: "Images/550.jpeg",
+    objectId: 550,
+    tags: [],
+    objectType: "amulet",
+    lat: null,
+    lng: null,
+    description: "Two amulets in faience in the form of male genitalia (should be labelled 23 & 24 in cabinet, but \"23\" is missing. So it's the top two on the acrylic board.)"
+  },
+  {
+    path: "Images/550b.jpeg",
+    objectId: 550,
+    tags: [],
+    objectType: "amulet",
+    lat: null,
+    lng: null,
+    description: "Two amulets in faience in the form of male genitalia (should be labelled 23 & 24 in cabinet, but \"23\" is missing. So it's the top two on the acrylic board.)"
+  },
+  {
+    path: "Images/551.jpeg",
+    objectId: 551,
+    tags: [],
+    objectType: "amulet",
+    lat: null,
+    lng: null,
+    description: "Amulet in rock crystal in the form of male genitalia (labelled 25 in display cabinet)"
+  },
+  {
+    path: "Images/552.jpeg",
+    objectId: 552,
+    tags: [],
+    objectType: "amulet",
+    lat: null,
+    lng: null,
+    description: "Hands in faience"
+  },
+  {
+    path: "Images/553.jpeg",
+    objectId: 553,
+    tags: [],
+    objectType: "amulet",
+    lat: null,
+    lng: null,
+    description: "Two-headed phallic amulet in wood (labelled 28 in display cabinet)"
+  },
+  {
+    path: "Images/553aJPG.JPG",
+    objectId: 553,
+    tags: [],
+    objectType: "amulet",
+    lat: null,
+    lng: null,
+    description: "Two-headed phallic amulet in wood (labelled 28 in display cabinet)"
+  },
+  {
+    path: "Images/553d.JPG",
+    objectId: 553,
+    tags: [],
+    objectType: "amulet",
+    lat: null,
+    lng: null,
+    description: "Two-headed phallic amulet in wood (labelled 28 in display cabinet)"
+  },
+  {
+    path: "Images/554.JPG",
+    objectId: 554,
+    tags: [],
+    objectType: "amulet",
+    lat: null,
+    lng: null,
+    description: "Two-headed phallic amulet in terracotta"
+  },
+  {
+    path: "Images/554b.JPG",
+    objectId: 554,
+    tags: [],
+    objectType: "amulet",
+    lat: null,
+    lng: null,
+    description: "Two-headed phallic amulet in terracotta"
+  },
+  {
+    path: "Images/555.JPG",
+    objectId: 555,
+    tags: [],
+    objectType: "amulet",
+    lat: null,
+    lng: null,
+    description: "Double amulet in bone with leaf and phalus"
+  },
+  {
+    path: "Images/555b.jpeg",
+    objectId: 555,
+    tags: [],
+    objectType: "amulet",
+    lat: null,
+    lng: null,
+    description: "Double amulet in bone with leaf and phalus"
+  },
+  {
+    path: "Images/555c.JPG",
+    objectId: 555,
+    tags: [],
+    objectType: "amulet",
+    lat: null,
+    lng: null,
+    description: "Double amulet in bone with leaf and phalus"
+  },
+  {
+    path: "Images/557.JPG",
+    objectId: 557,
+    tags: [],
+    objectType: "amulet",
+    lat: null,
+    lng: null,
+    description: "Amulet in bone with two-faced head and phallus"
+  },
+  {
+    path: "Images/557b.JPG",
+    objectId: 557,
+    tags: [],
+    objectType: "amulet",
+    lat: null,
+    lng: null,
+    description: "Amulet in bone with two-faced head and phallus"
+  },
+  {
+    path: "Images/557c.jpeg",
+    objectId: 557,
+    tags: [],
+    objectType: "amulet",
+    lat: null,
+    lng: null,
+    description: "Amulet in bone with two-faced head and phallus"
+  },
+  {
+    path: "Images/557d.jpeg",
+    objectId: 557,
+    tags: [],
+    objectType: "amulet",
+    lat: null,
+    lng: null,
+    description: "Amulet in bone with two-faced head and phallus"
+  },
+  {
+    path: "Images/558a.JPG",
+    objectId: 558,
+    tags: [],
+    objectType: "amulet",
+    lat: null,
+    lng: null,
+    description: "Two phallic amulets in coral (labelled 33 & 34 in display cabinet, pink/coral coloured)"
+  },
+  {
+    path: "Images/558b.JPG",
+    objectId: 558,
+    tags: [],
+    objectType: "amulet",
+    lat: null,
+    lng: null,
+    description: "Two phallic amulets in coral (labelled 33 & 34 in display cabinet, pink/coral coloured)"
+  },
+  {
+    path: "Images/559.JPG",
+    objectId: 559,
+    tags: [],
+    objectType: "amulet",
+    lat: null,
+    lng: null,
+    description: "Bone phallic amulet"
+  },
+  {
     path: "Images/56.jpg",
     objectId: 56,
     tags: [],
@@ -3294,13 +4851,22 @@ const IMAGES = [
     description: "Terracotta figure of Priapos. Priapos standing, his legs together and his belly thrust out. He looks down slightly to his right and his straggly beard falls on his chest. He wears a himation draped over his upper body, leaving his legs bare and his phallus rising over its lower edge. The mantle hides his left arm, which is akimbo, and covers his head. The top of the head, over which the himation was draped, is broken away; the shoulder of our figure may indicate that it had a raised right arm, probably but not certainly free of the himation. The back is plain, with part of the edge of a circular vent. Hollow; two-piece mould. Micaceous orange-brown Nile silt with some white grits."
   },
   {
+    path: "Images/560.JPG",
+    objectId: 560,
+    tags: [],
+    objectType: "amulet",
+    lat: null,
+    lng: null,
+    description: "Series of six amulets in faience (labelled 36 in display cabinet, turquoise coloured amulets on board)"
+  },
+  {
     path: "Images/561a.jpeg",
     objectId: 561,
     tags: [],
     objectType: "relief",
     lat: null,
     lng: null,
-    description: "Relief with phallus in red-painted tufa with inscription"
+    description: "Relief with phallus in red-painted tufa with inscription. Inscription text: \"hanc ego cacavi\" (ego cacavi = I took a shit; hanc = acc.f.s => what is this referring to? latrina/egesta/etc?)"
   },
   {
     path: "Images/561b.jpeg",
@@ -3309,7 +4875,7 @@ const IMAGES = [
     objectType: "relief",
     lat: null,
     lng: null,
-    description: "Relief with phallus in red-painted tufa with inscription"
+    description: "Relief with phallus in red-painted tufa with inscription. Inscription text: \"hanc ego cacavi\" (ego cacavi = I took a shit; hanc = acc.f.s => what is this referring to? latrina/egesta/etc?)"
   },
   {
     path: "Images/562.jpeg",
@@ -3373,6 +4939,582 @@ const IMAGES = [
     lat: null,
     lng: null,
     description: "Painted shop sign with Mercury"
+  },
+  {
+    path: "Images/567a.jpeg",
+    objectId: 567,
+    tags: [],
+    objectType: "relief",
+    lat: null,
+    lng: null,
+    description: "Marble bas-relief with goose, hen, duck and herm in the form of a cock"
+  },
+  {
+    path: "Images/567b.jpeg",
+    objectId: 567,
+    tags: [],
+    objectType: "relief",
+    lat: null,
+    lng: null,
+    description: "Marble bas-relief with goose, hen, duck and herm in the form of a cock"
+  },
+  {
+    path: "Images/568.jpeg",
+    objectId: 568,
+    tags: [],
+    objectType: "miniature bust",
+    lat: null,
+    lng: null,
+    description: "Small bronze head with a phallus on the forehead"
+  },
+  {
+    path: "Images/568b.jpeg",
+    objectId: 568,
+    tags: [],
+    objectType: "miniature bust",
+    lat: null,
+    lng: null,
+    description: "Small bronze head with a phallus on the forehead"
+  },
+  {
+    path: "Images/568c.jpeg",
+    objectId: 568,
+    tags: [],
+    objectType: "miniature bust",
+    lat: null,
+    lng: null,
+    description: "Small bronze head with a phallus on the forehead"
+  },
+  {
+    path: "Images/568d.jpeg",
+    objectId: 568,
+    tags: [],
+    objectType: "miniature bust",
+    lat: null,
+    lng: null,
+    description: "Small bronze head with a phallus on the forehead"
+  },
+  {
+    path: "Images/568e.jpeg",
+    objectId: 568,
+    tags: [],
+    objectType: "miniature bust",
+    lat: null,
+    lng: null,
+    description: "Small bronze head with a phallus on the forehead"
+  },
+  {
+    path: "Images/568f.jpeg",
+    objectId: 568,
+    tags: [],
+    objectType: "miniature bust",
+    lat: null,
+    lng: null,
+    description: "Small bronze head with a phallus on the forehead"
+  },
+  {
+    path: "Images/569.jpeg",
+    objectId: 569,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "Small bronze scene of sodomy"
+  },
+  {
+    path: "Images/570.jpeg",
+    objectId: 570,
+    tags: [],
+    objectType: "mirror",
+    lat: null,
+    lng: null,
+    description: "Engraved bronze mirror with erotic scene"
+  },
+  {
+    path: "Images/571.jpeg",
+    objectId: 571,
+    tags: [],
+    objectType: "pendant",
+    lat: null,
+    lng: null,
+    description: "Two bronze ox head pendants with phalluses in their mouth"
+  },
+  {
+    path: "Images/571b.jpeg",
+    objectId: 571,
+    tags: [],
+    objectType: "pendant",
+    lat: null,
+    lng: null,
+    description: "Two bronze ox head pendants with phalluses in their mouth"
+  },
+  {
+    path: "Images/571c.jpeg",
+    objectId: 571,
+    tags: [],
+    objectType: "pendant",
+    lat: null,
+    lng: null,
+    description: "Two bronze ox head pendants with phalluses in their mouth"
+  },
+  {
+    path: "Images/572.jpeg",
+    objectId: 572,
+    tags: [],
+    objectType: "lamp",
+    lat: null,
+    lng: null,
+    description: "Terracotta oil lamp with erotic scene"
+  },
+  {
+    path: "Images/572b.jpeg",
+    objectId: 572,
+    tags: [],
+    objectType: "lamp",
+    lat: null,
+    lng: null,
+    description: "Terracotta oil lamp with erotic scene"
+  },
+  {
+    path: "Images/573.jpeg",
+    objectId: 573,
+    tags: [],
+    objectType: "lamp",
+    lat: null,
+    lng: null,
+    description: "Black varnish oil lamp with winged phallus"
+  },
+  {
+    path: "Images/574a.jpeg",
+    objectId: 574,
+    tags: [],
+    objectType: "figure",
+    lat: null,
+    lng: null,
+    description: "Grotesque Harpocrates in soapstone"
+  },
+  {
+    path: "Images/574b.jpeg",
+    objectId: 574,
+    tags: [],
+    objectType: "figure",
+    lat: null,
+    lng: null,
+    description: "Grotesque Harpocrates in soapstone"
+  },
+  {
+    path: "Images/574c.jpeg",
+    objectId: 574,
+    tags: [],
+    objectType: "figure",
+    lat: null,
+    lng: null,
+    description: "Grotesque Harpocrates in soapstone"
+  },
+  {
+    path: "Images/574d.jpeg",
+    objectId: 574,
+    tags: [],
+    objectType: "figure",
+    lat: null,
+    lng: null,
+    description: "Grotesque Harpocrates in soapstone"
+  },
+  {
+    path: "Images/575a.jpeg",
+    objectId: 575,
+    tags: [],
+    objectType: "figure",
+    lat: null,
+    lng: null,
+    description: "Four seated dwarves (Harpocrates?) in soapstone"
+  },
+  {
+    path: "Images/575b.jpeg",
+    objectId: 575,
+    tags: [],
+    objectType: "figure",
+    lat: null,
+    lng: null,
+    description: "Four seated dwarves (Harpocrates?) in soapstone"
+  },
+  {
+    path: "Images/575c.jpeg",
+    objectId: 575,
+    tags: [],
+    objectType: "figure",
+    lat: null,
+    lng: null,
+    description: "Four seated dwarves (Harpocrates?) in soapstone"
+  },
+  {
+    path: "Images/575d.jpeg",
+    objectId: 575,
+    tags: [],
+    objectType: "figure",
+    lat: null,
+    lng: null,
+    description: "Four seated dwarves (Harpocrates?) in soapstone"
+  },
+  {
+    path: "Images/575e.jpeg",
+    objectId: 575,
+    tags: [],
+    objectType: "figure",
+    lat: null,
+    lng: null,
+    description: "Four seated dwarves (Harpocrates?) in soapstone"
+  },
+  {
+    path: "Images/575f.jpeg",
+    objectId: 575,
+    tags: [],
+    objectType: "figure",
+    lat: null,
+    lng: null,
+    description: "Four seated dwarves (Harpocrates?) in soapstone"
+  },
+  {
+    path: "Images/575g.jpeg",
+    objectId: 575,
+    tags: [],
+    objectType: "figure",
+    lat: null,
+    lng: null,
+    description: "Four seated dwarves (Harpocrates?) in soapstone"
+  },
+  {
+    path: "Images/575h.jpeg",
+    objectId: 575,
+    tags: [],
+    objectType: "figure",
+    lat: null,
+    lng: null,
+    description: "Four seated dwarves (Harpocrates?) in soapstone"
+  },
+  {
+    path: "Images/575i.jpeg",
+    objectId: 575,
+    tags: [],
+    objectType: "figure",
+    lat: null,
+    lng: null,
+    description: "Four seated dwarves (Harpocrates?) in soapstone"
+  },
+  {
+    path: "Images/575j.jpeg",
+    objectId: 575,
+    tags: [],
+    objectType: "figure",
+    lat: null,
+    lng: null,
+    description: "Four seated dwarves (Harpocrates?) in soapstone"
+  },
+  {
+    path: "Images/576a.jpeg",
+    objectId: 576,
+    tags: [],
+    objectType: "figure",
+    lat: null,
+    lng: null,
+    description: "Double hump-backed dwarf in soapstone"
+  },
+  {
+    path: "Images/576b.jpeg",
+    objectId: 576,
+    tags: [],
+    objectType: "figure",
+    lat: null,
+    lng: null,
+    description: "Double hump-backed dwarf in soapstone"
+  },
+  {
+    path: "Images/576c.jpeg",
+    objectId: 576,
+    tags: [],
+    objectType: "figure",
+    lat: null,
+    lng: null,
+    description: "Double hump-backed dwarf in soapstone"
+  },
+  {
+    path: "Images/577a.JPG",
+    objectId: 577,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "\"Statuetta bronzea con la parte superiore de corpo invertita respetto a quella inferiore\" (Bronze statuette with his butt on backwards)"
+  },
+  {
+    path: "Images/577b.JPG",
+    objectId: 577,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "\"Statuetta bronzea con la parte superiore de corpo invertita respetto a quella inferiore\" (Bronze statuette with his butt on backwards)"
+  },
+  {
+    path: "Images/577c.JPG",
+    objectId: 577,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "\"Statuetta bronzea con la parte superiore de corpo invertita respetto a quella inferiore\" (Bronze statuette with his butt on backwards)"
+  },
+  {
+    path: "Images/577d.JPG",
+    objectId: 577,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "\"Statuetta bronzea con la parte superiore de corpo invertita respetto a quella inferiore\" (Bronze statuette with his butt on backwards)"
+  },
+  {
+    path: "Images/577e.JPG",
+    objectId: 577,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "\"Statuetta bronzea con la parte superiore de corpo invertita respetto a quella inferiore\" (Bronze statuette with his butt on backwards)"
+  },
+  {
+    path: "Images/577f.jpeg",
+    objectId: 577,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "\"Statuetta bronzea con la parte superiore de corpo invertita respetto a quella inferiore\" (Bronze statuette with his butt on backwards)"
+  },
+  {
+    path: "Images/577g.JPG",
+    objectId: 577,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "\"Statuetta bronzea con la parte superiore de corpo invertita respetto a quella inferiore\" (Bronze statuette with his butt on backwards)"
+  },
+  {
+    path: "Images/578a.jpeg",
+    objectId: 578,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "\"Statuetta bronzea di Priapo con tunica da giardiniere che scopre il fallo\""
+  },
+  {
+    path: "Images/578b.jpeg",
+    objectId: 578,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "\"Statuetta bronzea di Priapo con tunica da giardiniere che scopre il fallo\""
+  },
+  {
+    path: "Images/578c.jpeg",
+    objectId: 578,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "\"Statuetta bronzea di Priapo con tunica da giardiniere che scopre il fallo\""
+  },
+  {
+    path: "Images/578d.jpeg",
+    objectId: 578,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "\"Statuetta bronzea di Priapo con tunica da giardiniere che scopre il fallo\""
+  },
+  {
+    path: "Images/578e.jpeg",
+    objectId: 578,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "\"Statuetta bronzea di Priapo con tunica da giardiniere che scopre il fallo\""
+  },
+  {
+    path: "Images/578f.jpeg",
+    objectId: 578,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "\"Statuetta bronzea di Priapo con tunica da giardiniere che scopre il fallo\""
+  },
+  {
+    path: "Images/578g.jpeg",
+    objectId: 578,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "\"Statuetta bronzea di Priapo con tunica da giardiniere che scopre il fallo\""
+  },
+  {
+    path: "Images/578h.jpeg",
+    objectId: 578,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "\"Statuetta bronzea di Priapo con tunica da giardiniere che scopre il fallo\""
+  },
+  {
+    path: "Images/578i.JPG",
+    objectId: 578,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "\"Statuetta bronzea di Priapo con tunica da giardiniere che scopre il fallo\""
+  },
+  {
+    path: "Images/579a.jpeg",
+    objectId: 579,
+    tags: [],
+    objectType: "mosaic",
+    lat: null,
+    lng: null,
+    description: "Herms depicted in mosaic theatre scene. \"Mosaic emblema in opus vermiculatum made from polychrome tesserae showing actors preparing for a satyr play. An elderly choregos (the producer or financier of a theatrical work) is seated between tragic masks and masks of Silenus. He teaches two young actors who are wearing a goat leather costume; at the centre, a character dressed in a tunic with a mask and a wreath on his head plays the double flute; to the right, another youth helps an actor put on a Silenus costume. The scene unfolds in front of a portico with ionic columns, from which shields and wreaths hang; vases and herms can be seen on the architrave."
+  },
+  {
+    path: "Images/579b.jpeg",
+    objectId: 579,
+    tags: [],
+    objectType: "mosaic",
+    lat: null,
+    lng: null,
+    description: "Herms depicted in mosaic theatre scene. \"Mosaic emblema in opus vermiculatum made from polychrome tesserae showing actors preparing for a satyr play. An elderly choregos (the producer or financier of a theatrical work) is seated between tragic masks and masks of Silenus. He teaches two young actors who are wearing a goat leather costume; at the centre, a character dressed in a tunic with a mask and a wreath on his head plays the double flute; to the right, another youth helps an actor put on a Silenus costume. The scene unfolds in front of a portico with ionic columns, from which shields and wreaths hang; vases and herms can be seen on the architrave."
+  },
+  {
+    path: "Images/579c.jpeg",
+    objectId: 579,
+    tags: [],
+    objectType: "mosaic",
+    lat: null,
+    lng: null,
+    description: "Herms depicted in mosaic theatre scene. \"Mosaic emblema in opus vermiculatum made from polychrome tesserae showing actors preparing for a satyr play. An elderly choregos (the producer or financier of a theatrical work) is seated between tragic masks and masks of Silenus. He teaches two young actors who are wearing a goat leather costume; at the centre, a character dressed in a tunic with a mask and a wreath on his head plays the double flute; to the right, another youth helps an actor put on a Silenus costume. The scene unfolds in front of a portico with ionic columns, from which shields and wreaths hang; vases and herms can be seen on the architrave."
+  },
+  {
+    path: "Images/579d.JPG",
+    objectId: 579,
+    tags: [],
+    objectType: "mosaic",
+    lat: null,
+    lng: null,
+    description: "Herms depicted in mosaic theatre scene. \"Mosaic emblema in opus vermiculatum made from polychrome tesserae showing actors preparing for a satyr play. An elderly choregos (the producer or financier of a theatrical work) is seated between tragic masks and masks of Silenus. He teaches two young actors who are wearing a goat leather costume; at the centre, a character dressed in a tunic with a mask and a wreath on his head plays the double flute; to the right, another youth helps an actor put on a Silenus costume. The scene unfolds in front of a portico with ionic columns, from which shields and wreaths hang; vases and herms can be seen on the architrave."
+  },
+  {
+    path: "Images/580a.jpeg",
+    objectId: 580,
+    tags: [],
+    objectType: "Attic red-figure oinochoe",
+    lat: null,
+    lng: null,
+    description: "Eurymedon Vase. Side A: man advances holding his erect phallus. Side B: Persian archer in submissive pose and Greek inscription \"I am Eurymedon, I stay bowed down.\" Pottery, unknown provenance, c.460BCE."
+  },
+  {
+    path: "Images/580b.jpeg",
+    objectId: 580,
+    tags: [],
+    objectType: "Attic red-figure oinochoe",
+    lat: null,
+    lng: null,
+    description: "Eurymedon Vase. Side A: man advances holding his erect phallus. Side B: Persian archer in submissive pose and Greek inscription \"I am Eurymedon, I stay bowed down.\" Pottery, unknown provenance, c.460BCE."
+  },
+  {
+    path: "Images/580c.jpeg",
+    objectId: 580,
+    tags: [],
+    objectType: "Attic red-figure oinochoe",
+    lat: null,
+    lng: null,
+    description: "Eurymedon Vase. Side A: man advances holding his erect phallus. Side B: Persian archer in submissive pose and Greek inscription \"I am Eurymedon, I stay bowed down.\" Pottery, unknown provenance, c.460BCE."
+  },
+  {
+    path: "Images/580d.jpeg",
+    objectId: 580,
+    tags: [],
+    objectType: "Attic red-figure oinochoe",
+    lat: null,
+    lng: null,
+    description: "Eurymedon Vase. Side A: man advances holding his erect phallus. Side B: Persian archer in submissive pose and Greek inscription \"I am Eurymedon, I stay bowed down.\" Pottery, unknown provenance, c.460BCE."
+  },
+  {
+    path: "Images/580e.jpeg",
+    objectId: 580,
+    tags: [],
+    objectType: "Attic red-figure oinochoe",
+    lat: null,
+    lng: null,
+    description: "Eurymedon Vase. Side A: man advances holding his erect phallus. Side B: Persian archer in submissive pose and Greek inscription \"I am Eurymedon, I stay bowed down.\" Pottery, unknown provenance, c.460BCE."
+  },
+  {
+    path: "Images/580f.jpeg",
+    objectId: 580,
+    tags: [],
+    objectType: "Attic red-figure oinochoe",
+    lat: null,
+    lng: null,
+    description: "Eurymedon Vase. Side A: man advances holding his erect phallus. Side B: Persian archer in submissive pose and Greek inscription \"I am Eurymedon, I stay bowed down.\" Pottery, unknown provenance, c.460BCE."
+  },
+  {
+    path: "Images/580g.jpeg",
+    objectId: 580,
+    tags: [],
+    objectType: "Attic red-figure oinochoe",
+    lat: null,
+    lng: null,
+    description: "Eurymedon Vase. Side A: man advances holding his erect phallus. Side B: Persian archer in submissive pose and Greek inscription \"I am Eurymedon, I stay bowed down.\" Pottery, unknown provenance, c.460BCE."
+  },
+  {
+    path: "Images/580h.jpeg",
+    objectId: 580,
+    tags: [],
+    objectType: "Attic red-figure oinochoe",
+    lat: null,
+    lng: null,
+    description: "Eurymedon Vase. Side A: man advances holding his erect phallus. Side B: Persian archer in submissive pose and Greek inscription \"I am Eurymedon, I stay bowed down.\" Pottery, unknown provenance, c.460BCE."
+  },
+  {
+    path: "Images/580i.JPG",
+    objectId: 580,
+    tags: [],
+    objectType: "Attic red-figure oinochoe",
+    lat: null,
+    lng: null,
+    description: "Eurymedon Vase. Side A: man advances holding his erect phallus. Side B: Persian archer in submissive pose and Greek inscription \"I am Eurymedon, I stay bowed down.\" Pottery, unknown provenance, c.460BCE."
+  },
+  {
+    path: "Images/580j.JPG",
+    objectId: 580,
+    tags: [],
+    objectType: "Attic red-figure oinochoe",
+    lat: null,
+    lng: null,
+    description: "Eurymedon Vase. Side A: man advances holding his erect phallus. Side B: Persian archer in submissive pose and Greek inscription \"I am Eurymedon, I stay bowed down.\" Pottery, unknown provenance, c.460BCE."
+  },
+  {
+    path: "Images/580k.JPG",
+    objectId: 580,
+    tags: [],
+    objectType: "Attic red-figure oinochoe",
+    lat: null,
+    lng: null,
+    description: "Eurymedon Vase. Side A: man advances holding his erect phallus. Side B: Persian archer in submissive pose and Greek inscription \"I am Eurymedon, I stay bowed down.\" Pottery, unknown provenance, c.460BCE."
   },
   {
     path: "Images/592.jpeg",
