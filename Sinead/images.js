@@ -2160,15 +2160,6 @@ const IMAGES = [
     description: "Bronze figure of Priapus holding up drapery to reveal genitals and support fruit."
   },
   {
-    path: "Images/449.jpg",
-    objectId: 449,
-    tags: [],
-    objectType: "relief",
-    lat: null,
-    lng: null,
-    description: "Allegorical relief"
-  },
-  {
     path: "Images/449a.jpeg",
     objectId: 449,
     tags: [],
@@ -2700,15 +2691,6 @@ const IMAGES = [
     description: "Leda and the Swan"
   },
   {
-    path: "Images/476.JPG",
-    objectId: 476,
-    tags: [],
-    objectType: "wall painting",
-    lat: null,
-    lng: null,
-    description: "Satyr embracing a maenad"
-  },
-  {
     path: "Images/476a.jpeg",
     objectId: 476,
     tags: [],
@@ -2846,33 +2828,6 @@ const IMAGES = [
   {
     path: "Images/480c.jpeg",
     objectId: 480,
-    tags: [],
-    objectType: "wall painting",
-    lat: null,
-    lng: null,
-    description: "Painting from banqueting couch with scenes of pygmies"
-  },
-  {
-    path: "Images/480c.JPG",
-    objectId: 480,
-    tags: [],
-    objectType: "wall painting",
-    lat: null,
-    lng: null,
-    description: "Painting from banqueting couch with scenes of pygmies"
-  },
-  {
-    path: "Images/480d.jpeg",
-    objectId: 480,
-    tags: [],
-    objectType: "wall painting",
-    lat: null,
-    lng: null,
-    description: "Painting from banqueting couch with scenes of pygmies"
-  },
-  {
-    path: "Images/481.jpeg",
-    objectId: 481,
     tags: [],
     objectType: "wall painting",
     lat: null,
@@ -3510,15 +3465,6 @@ const IMAGES = [
     description: "two earthenware vases featuring grotesque and ithyphallic dwarves"
   },
   {
-    path: "Images/507f.jpeg",
-    objectId: 507,
-    tags: [],
-    objectType: "priapic drinking vessel",
-    lat: null,
-    lng: null,
-    description: "two earthenware vases featuring grotesque and ithyphallic dwarves"
-  },
-  {
     path: "Images/508.jpeg",
     objectId: 508,
     tags: [],
@@ -3762,6 +3708,15 @@ const IMAGES = [
     description: "Four bronze statuettes of bread pedlar"
   },
   {
+    path: "Images/511m.JPG",
+    objectId: 511,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "Four bronze statuettes of bread pedlar"
+  },
+  {
     path: "Images/511n.jpeg",
     objectId: 511,
     tags: [],
@@ -3771,7 +3726,25 @@ const IMAGES = [
     description: "Four bronze statuettes of bread pedlar"
   },
   {
+    path: "Images/511n.JPG",
+    objectId: 511,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "Four bronze statuettes of bread pedlar"
+  },
+  {
     path: "Images/511o.jpeg",
+    objectId: 511,
+    tags: [],
+    objectType: "statuette",
+    lat: null,
+    lng: null,
+    description: "Four bronze statuettes of bread pedlar"
+  },
+  {
+    path: "Images/511p.JPG",
     objectId: 511,
     tags: [],
     objectType: "statuette",
@@ -3834,6 +3807,51 @@ const IMAGES = [
     description: "Bronze tintinnabulum with grotesque gladiator"
   },
   {
+    path: "Images/519a.jpeg",
+    objectId: 519,
+    tags: [],
+    objectType: "tintinnabulum",
+    lat: null,
+    lng: null,
+    description: "Bronze tintinnabulum with hump-backed ithyphallic dwarf. Saw at New Light on Pompeii: \"Tintinnabulum with statuette of ithyphallic man and twin-flamed hanging lamp.\""
+  },
+  {
+    path: "Images/519b.JPG",
+    objectId: 519,
+    tags: [],
+    objectType: "tintinnabulum",
+    lat: null,
+    lng: null,
+    description: "Bronze tintinnabulum with hump-backed ithyphallic dwarf. Saw at New Light on Pompeii: \"Tintinnabulum with statuette of ithyphallic man and twin-flamed hanging lamp.\""
+  },
+  {
+    path: "Images/519c.JPG",
+    objectId: 519,
+    tags: [],
+    objectType: "tintinnabulum",
+    lat: null,
+    lng: null,
+    description: "Bronze tintinnabulum with hump-backed ithyphallic dwarf. Saw at New Light on Pompeii: \"Tintinnabulum with statuette of ithyphallic man and twin-flamed hanging lamp.\""
+  },
+  {
+    path: "Images/519d.jpeg",
+    objectId: 519,
+    tags: [],
+    objectType: "tintinnabulum",
+    lat: null,
+    lng: null,
+    description: "Bronze tintinnabulum with hump-backed ithyphallic dwarf. Saw at New Light on Pompeii: \"Tintinnabulum with statuette of ithyphallic man and twin-flamed hanging lamp.\""
+  },
+  {
+    path: "Images/519f.JPG",
+    objectId: 519,
+    tags: [],
+    objectType: "tintinnabulum",
+    lat: null,
+    lng: null,
+    description: "Bronze tintinnabulum with hump-backed ithyphallic dwarf. Saw at New Light on Pompeii: \"Tintinnabulum with statuette of ithyphallic man and twin-flamed hanging lamp.\""
+  },
+  {
     path: "Images/52.jpg",
     objectId: 52,
     tags: [],
@@ -3849,7 +3867,7 @@ const IMAGES = [
     objectType: "lamp",
     lat: null,
     lng: null,
-    description: "Three bronze oil lamps with dancing dwarf"
+    description: "Saw in GS: \"Three bronze oil lamps with dancing dwarf.\" (27872). Saw in New Light on Pompeii: \"Lamp of a tintinnabulum in the shape of an ithyphallic man\". (27870, 27871)"
   },
   {
     path: "Images/520b.jpeg",
@@ -3858,7 +3876,7 @@ const IMAGES = [
     objectType: "lamp",
     lat: null,
     lng: null,
-    description: "Three bronze oil lamps with dancing dwarf"
+    description: "Saw in GS: \"Three bronze oil lamps with dancing dwarf.\" (27872). Saw in New Light on Pompeii: \"Lamp of a tintinnabulum in the shape of an ithyphallic man\". (27870, 27871)"
   },
   {
     path: "Images/520c.jpeg",
@@ -3867,7 +3885,7 @@ const IMAGES = [
     objectType: "lamp",
     lat: null,
     lng: null,
-    description: "Three bronze oil lamps with dancing dwarf"
+    description: "Saw in GS: \"Three bronze oil lamps with dancing dwarf.\" (27872). Saw in New Light on Pompeii: \"Lamp of a tintinnabulum in the shape of an ithyphallic man\". (27870, 27871)"
   },
   {
     path: "Images/520d.jpeg",
@@ -3876,7 +3894,7 @@ const IMAGES = [
     objectType: "lamp",
     lat: null,
     lng: null,
-    description: "Three bronze oil lamps with dancing dwarf"
+    description: "Saw in GS: \"Three bronze oil lamps with dancing dwarf.\" (27872). Saw in New Light on Pompeii: \"Lamp of a tintinnabulum in the shape of an ithyphallic man\". (27870, 27871)"
   },
   {
     path: "Images/520e.jpeg",
@@ -3885,16 +3903,178 @@ const IMAGES = [
     objectType: "lamp",
     lat: null,
     lng: null,
-    description: "Three bronze oil lamps with dancing dwarf"
+    description: "Saw in GS: \"Three bronze oil lamps with dancing dwarf.\" (27872). Saw in New Light on Pompeii: \"Lamp of a tintinnabulum in the shape of an ithyphallic man\". (27870, 27871)"
   },
   {
-    path: "Images/521.jpeg",
-    objectId: 521,
+    path: "Images/520f.jpg",
+    objectId: 520,
     tags: [],
-    objectType: "tintinnabulum",
+    objectType: "lamp",
     lat: null,
     lng: null,
-    description: "Bronze tintinnabulum with bird-phallus"
+    description: "Saw in GS: \"Three bronze oil lamps with dancing dwarf.\" (27872). Saw in New Light on Pompeii: \"Lamp of a tintinnabulum in the shape of an ithyphallic man\". (27870, 27871)"
+  },
+  {
+    path: "Images/520g.JPG",
+    objectId: 520,
+    tags: [],
+    objectType: "lamp",
+    lat: null,
+    lng: null,
+    description: "Saw in GS: \"Three bronze oil lamps with dancing dwarf.\" (27872). Saw in New Light on Pompeii: \"Lamp of a tintinnabulum in the shape of an ithyphallic man\". (27870, 27871)"
+  },
+  {
+    path: "Images/520h.JPG",
+    objectId: 520,
+    tags: [],
+    objectType: "lamp",
+    lat: null,
+    lng: null,
+    description: "Saw in GS: \"Three bronze oil lamps with dancing dwarf.\" (27872). Saw in New Light on Pompeii: \"Lamp of a tintinnabulum in the shape of an ithyphallic man\". (27870, 27871)"
+  },
+  {
+    path: "Images/520i.JPG",
+    objectId: 520,
+    tags: [],
+    objectType: "lamp",
+    lat: null,
+    lng: null,
+    description: "Saw in GS: \"Three bronze oil lamps with dancing dwarf.\" (27872). Saw in New Light on Pompeii: \"Lamp of a tintinnabulum in the shape of an ithyphallic man\". (27870, 27871)"
+  },
+  {
+    path: "Images/520j.JPG",
+    objectId: 520,
+    tags: [],
+    objectType: "lamp",
+    lat: null,
+    lng: null,
+    description: "Saw in GS: \"Three bronze oil lamps with dancing dwarf.\" (27872). Saw in New Light on Pompeii: \"Lamp of a tintinnabulum in the shape of an ithyphallic man\". (27870, 27871)"
+  },
+  {
+    path: "Images/520k.JPG",
+    objectId: 520,
+    tags: [],
+    objectType: "lamp",
+    lat: null,
+    lng: null,
+    description: "Saw in GS: \"Three bronze oil lamps with dancing dwarf.\" (27872). Saw in New Light on Pompeii: \"Lamp of a tintinnabulum in the shape of an ithyphallic man\". (27870, 27871)"
+  },
+  {
+    path: "Images/520l.JPG",
+    objectId: 520,
+    tags: [],
+    objectType: "lamp",
+    lat: null,
+    lng: null,
+    description: "Saw in GS: \"Three bronze oil lamps with dancing dwarf.\" (27872). Saw in New Light on Pompeii: \"Lamp of a tintinnabulum in the shape of an ithyphallic man\". (27870, 27871)"
+  },
+  {
+    path: "Images/520m.JPG",
+    objectId: 520,
+    tags: [],
+    objectType: "lamp",
+    lat: null,
+    lng: null,
+    description: "Saw in GS: \"Three bronze oil lamps with dancing dwarf.\" (27872). Saw in New Light on Pompeii: \"Lamp of a tintinnabulum in the shape of an ithyphallic man\". (27870, 27871)"
+  },
+  {
+    path: "Images/520n.JPG",
+    objectId: 520,
+    tags: [],
+    objectType: "lamp",
+    lat: null,
+    lng: null,
+    description: "Saw in GS: \"Three bronze oil lamps with dancing dwarf.\" (27872). Saw in New Light on Pompeii: \"Lamp of a tintinnabulum in the shape of an ithyphallic man\". (27870, 27871)"
+  },
+  {
+    path: "Images/520o.JPG",
+    objectId: 520,
+    tags: [],
+    objectType: "lamp",
+    lat: null,
+    lng: null,
+    description: "Saw in GS: \"Three bronze oil lamps with dancing dwarf.\" (27872). Saw in New Light on Pompeii: \"Lamp of a tintinnabulum in the shape of an ithyphallic man\". (27870, 27871)"
+  },
+  {
+    path: "Images/520p.JPG",
+    objectId: 520,
+    tags: [],
+    objectType: "lamp",
+    lat: null,
+    lng: null,
+    description: "Saw in GS: \"Three bronze oil lamps with dancing dwarf.\" (27872). Saw in New Light on Pompeii: \"Lamp of a tintinnabulum in the shape of an ithyphallic man\". (27870, 27871)"
+  },
+  {
+    path: "Images/520q.jpeg",
+    objectId: 520,
+    tags: [],
+    objectType: "lamp",
+    lat: null,
+    lng: null,
+    description: "Saw in GS: \"Three bronze oil lamps with dancing dwarf.\" (27872). Saw in New Light on Pompeii: \"Lamp of a tintinnabulum in the shape of an ithyphallic man\". (27870, 27871)"
+  },
+  {
+    path: "Images/520r.jpeg",
+    objectId: 520,
+    tags: [],
+    objectType: "lamp",
+    lat: null,
+    lng: null,
+    description: "Saw in GS: \"Three bronze oil lamps with dancing dwarf.\" (27872). Saw in New Light on Pompeii: \"Lamp of a tintinnabulum in the shape of an ithyphallic man\". (27870, 27871)"
+  },
+  {
+    path: "Images/520s.JPG",
+    objectId: 520,
+    tags: [],
+    objectType: "lamp",
+    lat: null,
+    lng: null,
+    description: "Saw in GS: \"Three bronze oil lamps with dancing dwarf.\" (27872). Saw in New Light on Pompeii: \"Lamp of a tintinnabulum in the shape of an ithyphallic man\". (27870, 27871)"
+  },
+  {
+    path: "Images/520t.jpeg",
+    objectId: 520,
+    tags: [],
+    objectType: "lamp",
+    lat: null,
+    lng: null,
+    description: "Saw in GS: \"Three bronze oil lamps with dancing dwarf.\" (27872). Saw in New Light on Pompeii: \"Lamp of a tintinnabulum in the shape of an ithyphallic man\". (27870, 27871)"
+  },
+  {
+    path: "Images/520u.jpeg",
+    objectId: 520,
+    tags: [],
+    objectType: "lamp",
+    lat: null,
+    lng: null,
+    description: "Saw in GS: \"Three bronze oil lamps with dancing dwarf.\" (27872). Saw in New Light on Pompeii: \"Lamp of a tintinnabulum in the shape of an ithyphallic man\". (27870, 27871)"
+  },
+  {
+    path: "Images/520v.jpeg",
+    objectId: 520,
+    tags: [],
+    objectType: "lamp",
+    lat: null,
+    lng: null,
+    description: "Saw in GS: \"Three bronze oil lamps with dancing dwarf.\" (27872). Saw in New Light on Pompeii: \"Lamp of a tintinnabulum in the shape of an ithyphallic man\". (27870, 27871)"
+  },
+  {
+    path: "Images/520w.jpeg",
+    objectId: 520,
+    tags: [],
+    objectType: "lamp",
+    lat: null,
+    lng: null,
+    description: "Saw in GS: \"Three bronze oil lamps with dancing dwarf.\" (27872). Saw in New Light on Pompeii: \"Lamp of a tintinnabulum in the shape of an ithyphallic man\". (27870, 27871)"
+  },
+  {
+    path: "Images/520x.jpeg",
+    objectId: 520,
+    tags: [],
+    objectType: "lamp",
+    lat: null,
+    lng: null,
+    description: "Saw in GS: \"Three bronze oil lamps with dancing dwarf.\" (27872). Saw in New Light on Pompeii: \"Lamp of a tintinnabulum in the shape of an ithyphallic man\". (27870, 27871)"
   },
   {
     path: "Images/523.jpeg",
@@ -3970,24 +4150,6 @@ const IMAGES = [
   },
   {
     path: "Images/524c.jpeg",
-    objectId: 524,
-    tags: [],
-    objectType: "tintinnabulum",
-    lat: null,
-    lng: null,
-    description: "Bronze tintinnabulum with bird-phallus-quadruped"
-  },
-  {
-    path: "Images/524d.jpeg",
-    objectId: 524,
-    tags: [],
-    objectType: "tintinnabulum",
-    lat: null,
-    lng: null,
-    description: "Bronze tintinnabulum with bird-phallus-quadruped"
-  },
-  {
-    path: "Images/524e.jpeg",
     objectId: 524,
     tags: [],
     objectType: "tintinnabulum",
@@ -4240,24 +4402,6 @@ const IMAGES = [
   },
   {
     path: "Images/535d.jpeg",
-    objectId: 535,
-    tags: [],
-    objectType: "pot",
-    lat: null,
-    lng: null,
-    description: "Earthenware mask-shaped pot"
-  },
-  {
-    path: "Images/535f.jpeg",
-    objectId: 535,
-    tags: [],
-    objectType: "pot",
-    lat: null,
-    lng: null,
-    description: "Earthenware mask-shaped pot"
-  },
-  {
-    path: "Images/535g.jpeg",
     objectId: 535,
     tags: [],
     objectType: "pot",
@@ -5517,22 +5661,805 @@ const IMAGES = [
     description: "Eurymedon Vase. Side A: man advances holding his erect phallus. Side B: Persian archer in submissive pose and Greek inscription \"I am Eurymedon, I stay bowed down.\" Pottery, unknown provenance, c.460BCE."
   },
   {
-    path: "Images/592.jpeg",
-    objectId: 592,
+    path: "Images/581a.jpeg",
+    objectId: 581,
     tags: [],
     objectType: "",
     lat: null,
     lng: null,
-    description: ""
+    description: "Trapezophoron (table leg) with depiction of a hermaphrodite). Marble. Second half of the first century BC. Pompeii, Caupona di Astylus/tavern (III 8, 8)"
   },
   {
-    path: "Images/592c.jpeg",
+    path: "Images/581b.jpeg",
+    objectId: 581,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Trapezophoron (table leg) with depiction of a hermaphrodite). Marble. Second half of the first century BC. Pompeii, Caupona di Astylus/tavern (III 8, 8)"
+  },
+  {
+    path: "Images/581c.jpeg",
+    objectId: 581,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Trapezophoron (table leg) with depiction of a hermaphrodite). Marble. Second half of the first century BC. Pompeii, Caupona di Astylus/tavern (III 8, 8)"
+  },
+  {
+    path: "Images/582a.JPG",
+    objectId: 582,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Meleager and Atlanta, lovers resting after the hunt of the Calydonian boar. Fresco. 1st cent. AD. Pompeii, House of the Dancing girls (VI 2, 22)"
+  },
+  {
+    path: "Images/583.JPG",
+    objectId: 583,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Hippolytus and Phaedra confessing her love to her stepson as he sets off on a hunt. Fresco, 1st century AD. Pompeii."
+  },
+  {
+    path: "Images/583b.JPG",
+    objectId: 583,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Hippolytus and Phaedra confessing her love to her stepson as he sets off on a hunt. Fresco, 1st century AD. Pompeii."
+  },
+  {
+    path: "Images/583c.JPG",
+    objectId: 583,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Hippolytus and Phaedra confessing her love to her stepson as he sets off on a hunt. Fresco, 1st century AD. Pompeii."
+  },
+  {
+    path: "Images/584a.JPG",
+    objectId: 584,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Erotic graffiti in Greek. \"If a person becomes beautiful and does not engage in pederasty, when they fall in love with a beautiful woman they are not going to score.\" Painted and incised plaster. 1st cent AD. Stabiae, Villa Arianna."
+  },
+  {
+    path: "Images/584c.JPG",
+    objectId: 584,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Erotic graffiti in Greek. \"If a person becomes beautiful and does not engage in pederasty, when they fall in love with a beautiful woman they are not going to score.\" Painted and incised plaster. 1st cent AD. Stabiae, Villa Arianna."
+  },
+  {
+    path: "Images/584d.JPG",
+    objectId: 584,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Erotic graffiti in Greek. \"If a person becomes beautiful and does not engage in pederasty, when they fall in love with a beautiful woman they are not going to score.\" Painted and incised plaster. 1st cent AD. Stabiae, Villa Arianna."
+  },
+  {
+    path: "Images/584e.JPG",
+    objectId: 584,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Erotic graffiti in Greek. \"If a person becomes beautiful and does not engage in pederasty, when they fall in love with a beautiful woman they are not going to score.\" Painted and incised plaster. 1st cent AD. Stabiae, Villa Arianna."
+  },
+  {
+    path: "Images/584f.JPG",
+    objectId: 584,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Erotic graffiti in Greek. \"If a person becomes beautiful and does not engage in pederasty, when they fall in love with a beautiful woman they are not going to score.\" Painted and incised plaster. 1st cent AD. Stabiae, Villa Arianna."
+  },
+  {
+    path: "Images/585a.JPG",
+    objectId: 585,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Hairpins depicting Aphrodite or Venus Anadyomene (wringing her hair as she comes out of the sea). Bone. 1st cent. AD. Pompeii."
+  },
+  {
+    path: "Images/585b.jpeg",
+    objectId: 585,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Hairpins depicting Aphrodite or Venus Anadyomene (wringing her hair as she comes out of the sea). Bone. 1st cent. AD. Pompeii."
+  },
+  {
+    path: "Images/585c.jpeg",
+    objectId: 585,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Hairpins depicting Aphrodite or Venus Anadyomene (wringing her hair as she comes out of the sea). Bone. 1st cent. AD. Pompeii."
+  },
+  {
+    path: "Images/585e.JPG",
+    objectId: 585,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Hairpins depicting Aphrodite or Venus Anadyomene (wringing her hair as she comes out of the sea). Bone. 1st cent. AD. Pompeii."
+  },
+  {
+    path: "Images/585f.JPG",
+    objectId: 585,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Hairpins depicting Aphrodite or Venus Anadyomene (wringing her hair as she comes out of the sea). Bone. 1st cent. AD. Pompeii."
+  },
+  {
+    path: "Images/586a.JPG",
+    objectId: 586,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Rod depicting Approdite or Venus Anadyomene (wringing her hair as she comes out of the sea), possibly the latch of a box for cosmetics. Bronze. 1st cent AD. Pompei, Casa Imperiale (I, 11, 18)"
+  },
+  {
+    path: "Images/586b.JPG",
+    objectId: 586,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Rod depicting Approdite or Venus Anadyomene (wringing her hair as she comes out of the sea), possibly the latch of a box for cosmetics. Bronze. 1st cent AD. Pompei, Casa Imperiale (I, 11, 18)"
+  },
+  {
+    path: "Images/586c.JPG",
+    objectId: 586,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Rod depicting Approdite or Venus Anadyomene (wringing her hair as she comes out of the sea), possibly the latch of a box for cosmetics. Bronze. 1st cent AD. Pompei, Casa Imperiale (I, 11, 18)"
+  },
+  {
+    path: "Images/587a.jpeg",
+    objectId: 587,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Oil lamp with a depiction of an erotic scene. Terracotta. 1st cent AD. Pompeii VIII (dump outside the Temple of Venus)."
+  },
+  {
+    path: "Images/587b.JPG",
+    objectId: 587,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Oil lamp with a depiction of an erotic scene. Terracotta. 1st cent AD. Pompeii VIII (dump outside the Temple of Venus)."
+  },
+  {
+    path: "Images/587c.JPG",
+    objectId: 587,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Oil lamp with a depiction of an erotic scene. Terracotta. 1st cent AD. Pompeii VIII (dump outside the Temple of Venus)."
+  },
+  {
+    path: "Images/587d.jpeg",
+    objectId: 587,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Oil lamp with a depiction of an erotic scene. Terracotta. 1st cent AD. Pompeii VIII (dump outside the Temple of Venus)."
+  },
+  {
+    path: "Images/587e.JPG",
+    objectId: 587,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Oil lamp with a depiction of an erotic scene. Terracotta. 1st cent AD. Pompeii VIII (dump outside the Temple of Venus)."
+  },
+  {
+    path: "Images/588a.jpeg",
+    objectId: 588,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Oil lamp with a depiction of an erotic scene. Terracotta. 1st cent AD."
+  },
+  {
+    path: "Images/588b.jpeg",
+    objectId: 588,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Oil lamp with a depiction of an erotic scene. Terracotta. 1st cent AD."
+  },
+  {
+    path: "Images/588c.JPG",
+    objectId: 588,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Oil lamp with a depiction of an erotic scene. Terracotta. 1st cent AD."
+  },
+  {
+    path: "Images/588d.JPG",
+    objectId: 588,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Oil lamp with a depiction of an erotic scene. Terracotta. 1st cent AD."
+  },
+  {
+    path: "Images/588e.jpeg",
+    objectId: 588,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Oil lamp with a depiction of an erotic scene. Terracotta. 1st cent AD."
+  },
+  {
+    path: "Images/589a.jpeg",
+    objectId: 589,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Two frescoes on opposite walls of a bedroom. 1st century CE. Carmiano, rural villa. \"Among the reception rooms of the rural villa, which specialised in wine production, one of the cubicula has a central painting with small doors depicting an erotic scene on the three walls with a black background. Paintings of this kind are found in the more secluded bedrooms of the houses. Bushes, silver drinking cups (kantharoi), candelabras, small columns and rearing [sic] horses embellish the architectural composition of the walls.\""
+  },
+  {
+    path: "Images/589b.JPG",
+    objectId: 589,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Two frescoes on opposite walls of a bedroom. 1st century CE. Carmiano, rural villa. \"Among the reception rooms of the rural villa, which specialised in wine production, one of the cubicula has a central painting with small doors depicting an erotic scene on the three walls with a black background. Paintings of this kind are found in the more secluded bedrooms of the houses. Bushes, silver drinking cups (kantharoi), candelabras, small columns and rearing [sic] horses embellish the architectural composition of the walls.\""
+  },
+  {
+    path: "Images/589c.jpeg",
+    objectId: 589,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Two frescoes on opposite walls of a bedroom. 1st century CE. Carmiano, rural villa. \"Among the reception rooms of the rural villa, which specialised in wine production, one of the cubicula has a central painting with small doors depicting an erotic scene on the three walls with a black background. Paintings of this kind are found in the more secluded bedrooms of the houses. Bushes, silver drinking cups (kantharoi), candelabras, small columns and rearing [sic] horses embellish the architectural composition of the walls.\""
+  },
+  {
+    path: "Images/589d.JPG",
+    objectId: 589,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Two frescoes on opposite walls of a bedroom. 1st century CE. Carmiano, rural villa. \"Among the reception rooms of the rural villa, which specialised in wine production, one of the cubicula has a central painting with small doors depicting an erotic scene on the three walls with a black background. Paintings of this kind are found in the more secluded bedrooms of the houses. Bushes, silver drinking cups (kantharoi), candelabras, small columns and rearing [sic] horses embellish the architectural composition of the walls.\""
+  },
+  {
+    path: "Images/589e.JPG",
+    objectId: 589,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Two frescoes on opposite walls of a bedroom. 1st century CE. Carmiano, rural villa. \"Among the reception rooms of the rural villa, which specialised in wine production, one of the cubicula has a central painting with small doors depicting an erotic scene on the three walls with a black background. Paintings of this kind are found in the more secluded bedrooms of the houses. Bushes, silver drinking cups (kantharoi), candelabras, small columns and rearing [sic] horses embellish the architectural composition of the walls.\""
+  },
+  {
+    path: "Images/589f.jpeg",
+    objectId: 589,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Two frescoes on opposite walls of a bedroom. 1st century CE. Carmiano, rural villa. \"Among the reception rooms of the rural villa, which specialised in wine production, one of the cubicula has a central painting with small doors depicting an erotic scene on the three walls with a black background. Paintings of this kind are found in the more secluded bedrooms of the houses. Bushes, silver drinking cups (kantharoi), candelabras, small columns and rearing [sic] horses embellish the architectural composition of the walls.\""
+  },
+  {
+    path: "Images/589g.jpeg",
+    objectId: 589,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Two frescoes on opposite walls of a bedroom. 1st century CE. Carmiano, rural villa. \"Among the reception rooms of the rural villa, which specialised in wine production, one of the cubicula has a central painting with small doors depicting an erotic scene on the three walls with a black background. Paintings of this kind are found in the more secluded bedrooms of the houses. Bushes, silver drinking cups (kantharoi), candelabras, small columns and rearing [sic] horses embellish the architectural composition of the walls.\""
+  },
+  {
+    path: "Images/589h.jpeg",
+    objectId: 589,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Two frescoes on opposite walls of a bedroom. 1st century CE. Carmiano, rural villa. \"Among the reception rooms of the rural villa, which specialised in wine production, one of the cubicula has a central painting with small doors depicting an erotic scene on the three walls with a black background. Paintings of this kind are found in the more secluded bedrooms of the houses. Bushes, silver drinking cups (kantharoi), candelabras, small columns and rearing [sic] horses embellish the architectural composition of the walls.\""
+  },
+  {
+    path: "Images/589i.jpeg",
+    objectId: 589,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Two frescoes on opposite walls of a bedroom. 1st century CE. Carmiano, rural villa. \"Among the reception rooms of the rural villa, which specialised in wine production, one of the cubicula has a central painting with small doors depicting an erotic scene on the three walls with a black background. Paintings of this kind are found in the more secluded bedrooms of the houses. Bushes, silver drinking cups (kantharoi), candelabras, small columns and rearing [sic] horses embellish the architectural composition of the walls.\""
+  },
+  {
+    path: "Images/589j.JPG",
+    objectId: 589,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Two frescoes on opposite walls of a bedroom. 1st century CE. Carmiano, rural villa. \"Among the reception rooms of the rural villa, which specialised in wine production, one of the cubicula has a central painting with small doors depicting an erotic scene on the three walls with a black background. Paintings of this kind are found in the more secluded bedrooms of the houses. Bushes, silver drinking cups (kantharoi), candelabras, small columns and rearing [sic] horses embellish the architectural composition of the walls.\""
+  },
+  {
+    path: "Images/590a.JPG",
+    objectId: 590,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Ephebe as a lampstand and tray-bearer. Bronze. from the House of Marcus Fabius Rufus (VII 16, 17-22). Parco Archelogico di Pompei, inv.13112 [cat. 16]"
+  },
+  {
+    path: "Images/590b.JPG",
+    objectId: 590,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Ephebe as a lampstand and tray-bearer. Bronze. from the House of Marcus Fabius Rufus (VII 16, 17-22). Parco Archelogico di Pompei, inv.13112 [cat. 16]"
+  },
+  {
+    path: "Images/590c.JPG",
+    objectId: 590,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Ephebe as a lampstand and tray-bearer. Bronze. from the House of Marcus Fabius Rufus (VII 16, 17-22). Parco Archelogico di Pompei, inv.13112 [cat. 16]"
+  },
+  {
+    path: "Images/590e.JPG",
+    objectId: 590,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Ephebe as a lampstand and tray-bearer. Bronze. from the House of Marcus Fabius Rufus (VII 16, 17-22). Parco Archelogico di Pompei, inv.13112 [cat. 16]"
+  },
+  {
+    path: "Images/590f.JPG",
+    objectId: 590,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Ephebe as a lampstand and tray-bearer. Bronze. from the House of Marcus Fabius Rufus (VII 16, 17-22). Parco Archelogico di Pompei, inv.13112 [cat. 16]"
+  },
+  {
+    path: "Images/590g.JPG",
+    objectId: 590,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Ephebe as a lampstand and tray-bearer. Bronze. from the House of Marcus Fabius Rufus (VII 16, 17-22). Parco Archelogico di Pompei, inv.13112 [cat. 16]"
+  },
+  {
+    path: "Images/590h.JPG",
+    objectId: 590,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Ephebe as a lampstand and tray-bearer. Bronze. from the House of Marcus Fabius Rufus (VII 16, 17-22). Parco Archelogico di Pompei, inv.13112 [cat. 16]"
+  },
+  {
+    path: "Images/590i.JPG",
+    objectId: 590,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Ephebe as a lampstand and tray-bearer. Bronze. from the House of Marcus Fabius Rufus (VII 16, 17-22). Parco Archelogico di Pompei, inv.13112 [cat. 16]"
+  },
+  {
+    path: "Images/590j.JPG",
+    objectId: 590,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Ephebe as a lampstand and tray-bearer. Bronze. from the House of Marcus Fabius Rufus (VII 16, 17-22). Parco Archelogico di Pompei, inv.13112 [cat. 16]"
+  },
+  {
+    path: "Images/591a.JPG",
+    objectId: 591,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Cameo glass panels with dionysiac scenes. Blue and white cameo glass. Reconstructed from fragments. Dionysus and Ariadne. (Ariadne drinking wine.)"
+  },
+  {
+    path: "Images/591b.JPG",
+    objectId: 591,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Cameo glass panels with dionysiac scenes. Blue and white cameo glass. Reconstructed from fragments. Dionysus and Ariadne. (Ariadne drinking wine.)"
+  },
+  {
+    path: "Images/592.JPG",
     objectId: 592,
     tags: [],
     objectType: "",
     lat: null,
     lng: null,
-    description: ""
+    description: "Cameo glass panels with dionysiac scenes. Blue and white cameo glass. Reconstructed from fragments. Dionysus and Ariadne. (Ariadne in despair, abandoned on Crete by Theseus.)"
+  },
+  {
+    path: "Images/593a.jpeg",
+    objectId: 593,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Pan with the head of an animal. Marble. 1st cent CE. Pompeii, Praedia di Giulia Felice (II 4, 2)."
+  },
+  {
+    path: "Images/593b.jpeg",
+    objectId: 593,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Pan with the head of an animal. Marble. 1st cent CE. Pompeii, Praedia di Giulia Felice (II 4, 2)."
+  },
+  {
+    path: "Images/593c.jpeg",
+    objectId: 593,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Pan with the head of an animal. Marble. 1st cent CE. Pompeii, Praedia di Giulia Felice (II 4, 2)."
+  },
+  {
+    path: "Images/593d.jpeg",
+    objectId: 593,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Pan with the head of an animal. Marble. 1st cent CE. Pompeii, Praedia di Giulia Felice (II 4, 2)."
+  },
+  {
+    path: "Images/593e.jpeg",
+    objectId: 593,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Pan with the head of an animal. Marble. 1st cent CE. Pompeii, Praedia di Giulia Felice (II 4, 2)."
+  },
+  {
+    path: "Images/593f.JPG",
+    objectId: 593,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Pan with the head of an animal. Marble. 1st cent CE. Pompeii, Praedia di Giulia Felice (II 4, 2)."
+  },
+  {
+    path: "Images/593g.JPG",
+    objectId: 593,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Pan with the head of an animal. Marble. 1st cent CE. Pompeii, Praedia di Giulia Felice (II 4, 2)."
+  },
+  {
+    path: "Images/593h.jpeg",
+    objectId: 593,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Pan with the head of an animal. Marble. 1st cent CE. Pompeii, Praedia di Giulia Felice (II 4, 2)."
+  },
+  {
+    path: "Images/593i.jpeg",
+    objectId: 593,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Pan with the head of an animal. Marble. 1st cent CE. Pompeii, Praedia di Giulia Felice (II 4, 2)."
+  },
+  {
+    path: "Images/593j.jpeg",
+    objectId: 593,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Pan with the head of an animal. Marble. 1st cent CE. Pompeii, Praedia di Giulia Felice (II 4, 2)."
+  },
+  {
+    path: "Images/594.jpeg",
+    objectId: 594,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Mouth of a fountain with the bust of a satyr. Bronze with silver and copper damascening, 1st century AD, Pompeii, Suburban Baths."
+  },
+  {
+    path: "Images/595a.jpeg",
+    objectId: 595,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Young fisherman asleep. Marble. 1st cent AD. Pompeii, House of the Dancers (VI 2, 22)"
+  },
+  {
+    path: "Images/595b.jpeg",
+    objectId: 595,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Young fisherman asleep. Marble. 1st cent AD. Pompeii, House of the Dancers (VI 2, 22)"
+  },
+  {
+    path: "Images/595c.jpeg",
+    objectId: 595,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Young fisherman asleep. Marble. 1st cent AD. Pompeii, House of the Dancers (VI 2, 22)"
+  },
+  {
+    path: "Images/595d.jpeg",
+    objectId: 595,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Young fisherman asleep. Marble. 1st cent AD. Pompeii, House of the Dancers (VI 2, 22)"
+  },
+  {
+    path: "Images/595e.jpeg",
+    objectId: 595,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Young fisherman asleep. Marble. 1st cent AD. Pompeii, House of the Dancers (VI 2, 22)"
+  },
+  {
+    path: "Images/596a.JPG",
+    objectId: 596,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Wall with lush garden of a large reception room (oecus). Fresco. 25-50AD. Pompeii, House of the Golden Bracelet (VI 17, 42)."
+  },
+  {
+    path: "Images/596b.JPG",
+    objectId: 596,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Wall with lush garden of a large reception room (oecus). Fresco. 25-50AD. Pompeii, House of the Golden Bracelet (VI 17, 42)."
+  },
+  {
+    path: "Images/596c.JPG",
+    objectId: 596,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Wall with lush garden of a large reception room (oecus). Fresco. 25-50AD. Pompeii, House of the Golden Bracelet (VI 17, 42)."
+  },
+  {
+    path: "Images/596e.JPG",
+    objectId: 596,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Wall with lush garden of a large reception room (oecus). Fresco. 25-50AD. Pompeii, House of the Golden Bracelet (VI 17, 42)."
+  },
+  {
+    path: "Images/596f.JPG",
+    objectId: 596,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Wall with lush garden of a large reception room (oecus). Fresco. 25-50AD. Pompeii, House of the Golden Bracelet (VI 17, 42)."
+  },
+  {
+    path: "Images/596g.JPG",
+    objectId: 596,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Wall with lush garden of a large reception room (oecus). Fresco. 25-50AD. Pompeii, House of the Golden Bracelet (VI 17, 42)."
+  },
+  {
+    path: "Images/596h.JPG",
+    objectId: 596,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Wall with lush garden of a large reception room (oecus). Fresco. 25-50AD. Pompeii, House of the Golden Bracelet (VI 17, 42)."
+  },
+  {
+    path: "Images/596i.JPG",
+    objectId: 596,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Wall with lush garden of a large reception room (oecus). Fresco. 25-50AD. Pompeii, House of the Golden Bracelet (VI 17, 42)."
+  },
+  {
+    path: "Images/597a.JPG",
+    objectId: 597,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Sleeping Hermaphrodite. Marble. 1st century AD. Pompeii. House of Loreius Tiburtinus (II 2, 2)"
+  },
+  {
+    path: "Images/597b.JPG",
+    objectId: 597,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Sleeping Hermaphrodite. Marble. 1st century AD. Pompeii. House of Loreius Tiburtinus (II 2, 2)"
+  },
+  {
+    path: "Images/597c.JPG",
+    objectId: 597,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Sleeping Hermaphrodite. Marble. 1st century AD. Pompeii. House of Loreius Tiburtinus (II 2, 2)"
+  },
+  {
+    path: "Images/597d.JPG",
+    objectId: 597,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Sleeping Hermaphrodite. Marble. 1st century AD. Pompeii. House of Loreius Tiburtinus (II 2, 2)"
+  },
+  {
+    path: "Images/598a.JPG",
+    objectId: 598,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Statue from water channel of the garden in the House of Loreius Tiburtinus, Pompeii (II 2, 2). Marble and faience. 1st cent CE."
+  },
+  {
+    path: "Images/598b.JPG",
+    objectId: 598,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Statue from water channel of the garden in the House of Loreius Tiburtinus, Pompeii (II 2, 2). Marble and faience. 1st cent CE."
+  },
+  {
+    path: "Images/598c.JPG",
+    objectId: 598,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Statue from water channel of the garden in the House of Loreius Tiburtinus, Pompeii (II 2, 2). Marble and faience. 1st cent CE."
+  },
+  {
+    path: "Images/598d.JPG",
+    objectId: 598,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Statue from water channel of the garden in the House of Loreius Tiburtinus, Pompeii (II 2, 2). Marble and faience. 1st cent CE."
+  },
+  {
+    path: "Images/599a.JPG",
+    objectId: 599,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "satyr on twin-flamed bronze table lamp"
+  },
+  {
+    path: "Images/599b.JPG",
+    objectId: 599,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "satyr on twin-flamed bronze table lamp"
+  },
+  {
+    path: "Images/599c.JPG",
+    objectId: 599,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "satyr on twin-flamed bronze table lamp"
+  },
+  {
+    path: "Images/599d.JPG",
+    objectId: 599,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "satyr on twin-flamed bronze table lamp"
+  },
+  {
+    path: "Images/599e.JPG",
+    objectId: 599,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "satyr on twin-flamed bronze table lamp"
   },
   {
     path: "Images/6.png",
@@ -5551,6 +6478,393 @@ const IMAGES = [
     lat: null,
     lng: null,
     description: "Marble figure of Priapus raising drapery with hands, back against support of larger figure(?); traces of red and black paint."
+  },
+  {
+    path: "Images/600a.JPG",
+    objectId: 600,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "ithyphallic bat lamp"
+  },
+  {
+    path: "Images/600b.JPG",
+    objectId: 600,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "ithyphallic bat lamp"
+  },
+  {
+    path: "Images/600c.JPG",
+    objectId: 600,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "ithyphallic bat lamp"
+  },
+  {
+    path: "Images/600d.JPG",
+    objectId: 600,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "ithyphallic bat lamp"
+  },
+  {
+    path: "Images/600f.jpeg",
+    objectId: 600,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "ithyphallic bat lamp"
+  },
+  {
+    path: "Images/601a.JPG",
+    objectId: 601,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "tree standing lamp"
+  },
+  {
+    path: "Images/601b.JPG",
+    objectId: 601,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "tree standing lamp"
+  },
+  {
+    path: "Images/602a.jpeg",
+    objectId: 602,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "small bat lamp"
+  },
+  {
+    path: "Images/602b.jpeg",
+    objectId: 602,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "small bat lamp"
+  },
+  {
+    path: "Images/603a.JPG",
+    objectId: 603,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "lamp with vulva and face"
+  },
+  {
+    path: "Images/604a.JPG",
+    objectId: 604,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "lararium lamps with seated woman and two small male figures (possibly priapus)"
+  },
+  {
+    path: "Images/604b.JPG",
+    objectId: 604,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "lararium lamps with seated woman and two small male figures (possibly priapus)"
+  },
+  {
+    path: "Images/605a.JPG",
+    objectId: 605,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "satyr on twin-flamed bronze table lamp (very similar to 599 but not the same)"
+  },
+  {
+    path: "Images/605b.jpeg",
+    objectId: 605,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "satyr on twin-flamed bronze table lamp (very similar to 599 but not the same)"
+  },
+  {
+    path: "Images/605c.JPG",
+    objectId: 605,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "satyr on twin-flamed bronze table lamp (very similar to 599 but not the same)"
+  },
+  {
+    path: "Images/605d.JPG",
+    objectId: 605,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "satyr on twin-flamed bronze table lamp (very similar to 599 but not the same)"
+  },
+  {
+    path: "Images/606a.JPG",
+    objectId: 606,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Small statue of Hermaphrodite. Rome, Viminal Hill, area of the municipal custom house S inv. 2163. Julio-Claudian age. Rome, Capitoline Museums, Antiquarium."
+  },
+  {
+    path: "Images/606b.JPG",
+    objectId: 606,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Small statue of Hermaphrodite. Rome, Viminal Hill, area of the municipal custom house S inv. 2163. Julio-Claudian age. Rome, Capitoline Museums, Antiquarium."
+  },
+  {
+    path: "Images/606c.JPG",
+    objectId: 606,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Small statue of Hermaphrodite. Rome, Viminal Hill, area of the municipal custom house S inv. 2163. Julio-Claudian age. Rome, Capitoline Museums, Antiquarium."
+  },
+  {
+    path: "Images/606d.JPG",
+    objectId: 606,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Small statue of Hermaphrodite. Rome, Viminal Hill, area of the municipal custom house S inv. 2163. Julio-Claudian age. Rome, Capitoline Museums, Antiquarium."
+  },
+  {
+    path: "Images/606e.JPG",
+    objectId: 606,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Small statue of Hermaphrodite. Rome, Viminal Hill, area of the municipal custom house S inv. 2163. Julio-Claudian age. Rome, Capitoline Museums, Antiquarium."
+  },
+  {
+    path: "Images/606f.JPG",
+    objectId: 606,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Small statue of Hermaphrodite. Rome, Viminal Hill, area of the municipal custom house S inv. 2163. Julio-Claudian age. Rome, Capitoline Museums, Antiquarium."
+  },
+  {
+    path: "Images/607a.jpeg",
+    objectId: 607,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Tintinnabulum with statuette of ithyphallic man and twin-flamed hanging lamp. PAP, inv. 1098"
+  },
+  {
+    path: "Images/607b.jpeg",
+    objectId: 607,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Tintinnabulum with statuette of ithyphallic man and twin-flamed hanging lamp. PAP, inv. 1098"
+  },
+  {
+    path: "Images/607c.JPG",
+    objectId: 607,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Tintinnabulum with statuette of ithyphallic man and twin-flamed hanging lamp. PAP, inv. 1098"
+  },
+  {
+    path: "Images/607d.JPG",
+    objectId: 607,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Tintinnabulum with statuette of ithyphallic man and twin-flamed hanging lamp. PAP, inv. 1098"
+  },
+  {
+    path: "Images/607e.JPG",
+    objectId: 607,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Tintinnabulum with statuette of ithyphallic man and twin-flamed hanging lamp. PAP, inv. 1098"
+  },
+  {
+    path: "Images/607f.JPG",
+    objectId: 607,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Tintinnabulum with statuette of ithyphallic man and twin-flamed hanging lamp. PAP, inv. 1098"
+  },
+  {
+    path: "Images/607g.JPG",
+    objectId: 607,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Tintinnabulum with statuette of ithyphallic man and twin-flamed hanging lamp. PAP, inv. 1098"
+  },
+  {
+    path: "Images/607h.JPG",
+    objectId: 607,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Tintinnabulum with statuette of ithyphallic man and twin-flamed hanging lamp. PAP, inv. 1098"
+  },
+  {
+    path: "Images/607i.JPG",
+    objectId: 607,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Tintinnabulum with statuette of ithyphallic man and twin-flamed hanging lamp. PAP, inv. 1098"
+  },
+  {
+    path: "Images/607j.jpeg",
+    objectId: 607,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Tintinnabulum with statuette of ithyphallic man and twin-flamed hanging lamp. PAP, inv. 1098"
+  },
+  {
+    path: "Images/607k.jpeg",
+    objectId: 607,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Tintinnabulum with statuette of ithyphallic man and twin-flamed hanging lamp. PAP, inv. 1098"
+  },
+  {
+    path: "Images/608a.jpeg",
+    objectId: 608,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Tintinnabulum with zoomorphic phallus, tabula ansata and twin-flamed hanging lamp. Saw at New Light on Pompeii exhibition."
+  },
+  {
+    path: "Images/608b.JPG",
+    objectId: 608,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Tintinnabulum with zoomorphic phallus, tabula ansata and twin-flamed hanging lamp. Saw at New Light on Pompeii exhibition."
+  },
+  {
+    path: "Images/608c.JPG",
+    objectId: 608,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Tintinnabulum with zoomorphic phallus, tabula ansata and twin-flamed hanging lamp. Saw at New Light on Pompeii exhibition."
+  },
+  {
+    path: "Images/608d.JPG",
+    objectId: 608,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Tintinnabulum with zoomorphic phallus, tabula ansata and twin-flamed hanging lamp. Saw at New Light on Pompeii exhibition."
+  },
+  {
+    path: "Images/608e.jpeg",
+    objectId: 608,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Tintinnabulum with zoomorphic phallus, tabula ansata and twin-flamed hanging lamp. Saw at New Light on Pompeii exhibition."
+  },
+  {
+    path: "Images/608f.jpeg",
+    objectId: 608,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Tintinnabulum with zoomorphic phallus, tabula ansata and twin-flamed hanging lamp. Saw at New Light on Pompeii exhibition."
+  },
+  {
+    path: "Images/608g.jpeg",
+    objectId: 608,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Tintinnabulum with zoomorphic phallus, tabula ansata and twin-flamed hanging lamp. Saw at New Light on Pompeii exhibition."
+  },
+  {
+    path: "Images/608h.jpeg",
+    objectId: 608,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Tintinnabulum with zoomorphic phallus, tabula ansata and twin-flamed hanging lamp. Saw at New Light on Pompeii exhibition."
+  },
+  {
+    path: "Images/608i.jpeg",
+    objectId: 608,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Tintinnabulum with zoomorphic phallus, tabula ansata and twin-flamed hanging lamp. Saw at New Light on Pompeii exhibition."
+  },
+  {
+    path: "Images/608j.jpeg",
+    objectId: 608,
+    tags: [],
+    objectType: "",
+    lat: null,
+    lng: null,
+    description: "Tintinnabulum with zoomorphic phallus, tabula ansata and twin-flamed hanging lamp. Saw at New Light on Pompeii exhibition."
   },
   {
     path: "Images/62.jpg",
